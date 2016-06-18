@@ -6,7 +6,7 @@ This project forked from [blmoore/md-cv](https://github.com/blmoore/md-cv)
 
 ### How to run 
 
-A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa](https://github.com/elipapa/markdown-cv) (see their [blog post](http://www.eliseopapa.org/workflow/2012/09/20/why-i-switched-to-markdown-for-my-cv/)).
+A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa](https://github.com/elipapa/markdown-cv)
 
 To build, clone the repo and run jekyll:
 

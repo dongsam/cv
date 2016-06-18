@@ -139,7 +139,7 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 ## Trainings
 
 `2014`
-_실리콘밸리, Google, MS, 스탠퍼드, HP 등 해외연수 및 탐방_
+실리콘밸리, Google, MS, 스탠퍼드, HP 등 해외연수 및 탐방
 
 `2013-14`
 Software Maestro 하계, 동계 집체교육
