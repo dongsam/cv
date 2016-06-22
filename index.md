@@ -41,13 +41,13 @@ __옐로금융그룹(Nomad Connection)__, 연구원
 Log 수집 및 분석 시스템 개발, 주식 투자를 위한 뉴스 텍스트 및 데이터 분석 연구
 
 * Python
+* Flask
 * AWS(EB, Lambda, SQS, S3)
 * Javascript
 * Spark
 * Zeppelin
 * Gensim
 * Vagrant
-* Docker
 * Git
 * KoNLPy
 * MongoDB
@@ -71,7 +71,7 @@ Web/App 서비스에서 발생하는 유저의 클릭, 이동, 이탈 로그를 
 
 Flask RESTful Server 및 Spark, Zepplien 기반 대시보드 [[github]](https://github.com/dongsam/logdig)
 
-`2014` __판매 정보 빅데이터 분석을 통한 물량 발주 예측 자동화 시스템__
+`2014` __판매정보 빅데이터 분석을 통한 판매 예측 시스템__
 
 외식업계 POS 및 온라인, 전화 주문 점유율에 대한 10년 분량의 판매 데이터와 날씨, 뉴스, 웹 로그, 마케팅 정보 등 외부변수 분석을 통한 미래 판매량 예측 [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
 
