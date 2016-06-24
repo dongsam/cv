@@ -51,6 +51,7 @@ Log 수집 및 분석 시스템 개발, 주식 투자를 위한 뉴스 텍스트
 * Git
 * KoNLPy
 * MongoDB
+* RESTful
 
 
 
