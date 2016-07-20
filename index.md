@@ -17,9 +17,19 @@ interest in Finance ,Data Engineering
 
 ## Employment
 
+`2016-`
+__원티드랩__, Software Engineer
+
+__[원티드 (wanted.co.kr)](https://www.wanted.co.kr/)__ Python Backend, REST API server, DevOps
+
+* Python
+* Flask
+* AWS
+
+
 <!-- ### __(주)처음__ -->
 
-`2016-`
+`2016`
 __(주)처음__, 개발팀장
 
 __[씨유펀드 (cufund.co.kr)](https://cufund.co.kr)__ P2P 대출 플랫폼  Backend, Full Stack 개발 총괄, AWS 시스템 구축 및 관리
@@ -207,9 +217,9 @@ Facebook Page Posting Automation [ Python, GraphAPI ]
 
 ## Presentations
 
-`2014` Cisco CMX 기술을 통한 실내,외 Drone 기반 투어 및 제어 시스템, CISCO IoE Codefest, 송도 [[youtube]](https://www.youtube.com/watch?v=Yn5sWokdlQo)
-
 `2014` 판매정보 빅데이터 분석을 통한 판매 예측 시스템, 한이음 엑스포 2014, 코엑스 [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
+
+`2014` Cisco CMX 기술을 통한 실내,외 Drone 기반 투어 및 제어 시스템, CISCO IoE Codefest, 송도 [[youtube]](https://www.youtube.com/watch?v=Yn5sWokdlQo)
 
 `2013` QR코드 스캔에 기초한 보안 결제 시스템, 코엑스 [[youtube]](https://www.youtube.com/watch?v=_MoKVDGuGe8)
 
