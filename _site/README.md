@@ -10,6 +10,8 @@ A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa]
 
 To build, clone the repo and run jekyll:
 
+[install jekyll](https://jekyllrb.com/docs/installation/)
+
 ```bash
 git clone git://github.com/dongsam/cv
 cd cv/
