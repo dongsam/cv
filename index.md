@@ -195,7 +195,7 @@ Facebook Page Posting Automation [ Python, GraphAPI ]
 
 `2013` 기업보안 전문가 대상 APT공격 시뮬레이션대회, 3등 [Symantec]
 
-`2011` 기술보고서 작성 및 발표 경연대회, 대상 [Symantec]
+`2011` 기술보고서 작성 및 발표 경연대회, 대상 [동국대학교]
 
 `2010` 오픈소스 소프트웨어 소개 글 공모전, 2위 [한국 레드햇]
 
