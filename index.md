@@ -20,7 +20,7 @@ interest in Finance ,Data Engineering
 `2016-`
 __원티드랩__, Software Engineer
 
-__[원티드 (wanted.co.kr)](https://www.wanted.co.kr/)__ Python Backend, REST API server, DevOps
+__원티드 (wanted.co.kr)__ Python Backend, REST API server, DevOps
 
 * Python
 * Flask
