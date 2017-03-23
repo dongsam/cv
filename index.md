@@ -20,11 +20,14 @@ interest in Finance ,Data Engineering
 `2016-`
 __원티드랩__, Software Engineer
 
-__원티드 (wanted.co.kr)__ Python Backend, REST API server, DevOps
+__원티드 (wanted.co.kr)__ Backend, REST API Development, Data Analysis, Machine Learning
 
 * Python
 * Flask
-* AWS
+* AWS(EC2, ELB, RDS, CF, S3, Lambda)
+* tensorflow
+* scikit-learn
+* gensim
 
 
 <!-- ### __(주)처음__ -->
