@@ -5,9 +5,9 @@ title: 변동삼
 
 # 변동삼
 
-Python Backend Developoer
+Python Backend Developer, Machine Learning Engineer
 
-interest in Finance ,Data Engineering
+interested in data about text and finance
 
 <div id="webaddress">
 |
@@ -20,7 +20,18 @@ interest in Finance ,Data Engineering
 `2016-`
 __원티드랩__, Software Engineer
 
-__원티드 (wanted.co.kr)__ Backend, REST API Development, Data Analysis, Machine Learning
+__[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine Learning, Backend, REST API Development
+
+<br>
+-이력서, JD 텍스트 형태소 분석 및 키워드 추출 ( TF-IDF, Word2vec )
+
+-직무 직군 collaborative filtering 및 유사도 분석
+
+-유저, JD 간의 매칭 스코어링 및 합격, 불합격 확률 측정 모델 개발
+
+-[회사 뉴스 크롤링, 비관련 뉴스 필터링](https://www.wanted.co.kr/news)
+
+<br>
 
 * Python
 * Flask
@@ -29,13 +40,16 @@ __원티드 (wanted.co.kr)__ Backend, REST API Development, Data Analysis, Machi
 * scikit-learn
 * gensim
 
+<br>
 
 <!-- ### __(주)처음__ -->
 
 `2016`
 __(주)처음__, 개발팀장
 
-__[씨유펀드 (cufund.co.kr)](https://cufund.co.kr)__ P2P 대출 플랫폼  Backend, Full Stack 개발 총괄, AWS 시스템 구축 및 관리
+__[씨유펀드 (cufund.co.kr)](https://cufund.co.kr)__ P2P 대출 플랫폼  Backend, Full Stack 개발 총괄
+
+AWS 시스템 구축 및 관리
 
 * Python
 * Django
@@ -51,7 +65,9 @@ __[씨유펀드 (cufund.co.kr)](https://cufund.co.kr)__ P2P 대출 플랫폼  Ba
 `2015-16`
 __옐로금융그룹(Nomad Connection)__, 연구원
 
-Log 수집 및 분석 시스템 개발, 주식 투자를 위한 뉴스 텍스트 및 데이터 분석 연구
+-Log 수집 및 분석 시스템 개발
+
+-주식 투자를 위한 뉴스 텍스트 및 데이터 분석 연구
 
 * Python
 * Flask
@@ -67,15 +83,52 @@ Log 수집 및 분석 시스템 개발, 주식 투자를 위한 뉴스 텍스트
 * RESTful
 
 
+`2014-15`
+__Self-employment__, Freelancer
+
+__Web, Data Crawler Development__
+
+* Facebook Page posts, comments
+* Amazone products,reviews
+* Instagram Posts, tags
+* Google Image
+* Naver News
+* Naver Finance [[gist]](https://gist.github.com/dongsam/55a0f00d4eab9185c55a)
+* Daum Cafe Posts
+* 총선 후보자 데이터
+* ETC Apps, Shops ...
+
+__Automation__
+
+-SEO 를 위한 Browser Automation [ Python, Selenium ]
+
+-법무법인 업무 자동화 [ Python, Flask ]
+
+-Instagram Image Upload Automation [ Python ]
+
+-Facebook Page Posting Automation [ Python, GraphAPI ]
+
+
+
 
 ## Education
 `2015-`
-__고려대학교__ 일반대학원 컴퓨터학
+__고려대학교__ 일반대학원 컴퓨터학 재학 / 석사 3학기
+
+* 빅데이터마이닝 이론 및 실습
+* 빅데이터 텍스트 마이닝
+* 빅데이터 기획 분석
+* 정보검색론
+* 소셜네트워크 보안
+* 시스템 보안 특론
+* 벤처투자론
 
 `2011-15`
 __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업
 
+-인공지능 연구실, 학부 연구생 및 조교
 
+<br>
 
 ## Projects
 
@@ -134,6 +187,9 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 ## Activities
 
+`2015`
+고려대학교 컴퓨터보안연구실( CCSLAB ) Full-Time
+
 `2014-16`
 민.관 합동조사단 ( 사이버보안전문단 ), [ 미래창조과학부 ]
 
@@ -163,7 +219,7 @@ Software Maestro 하계, 동계 집체교육
 
 
 
-## Freelancer Projects
+<!-- ## Freelancer Projects
 
 `Crawler` 
 
@@ -185,7 +241,7 @@ SEO 를 위한 Browser Automation [ Python, Selenium ]
 
 Instagram Image Upload Automation [ Python ]
 
-Facebook Page Posting Automation [ Python, GraphAPI ]
+Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 
 ## Prizes
@@ -241,7 +297,7 @@ Facebook Page Posting Automation [ Python, GraphAPI ]
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a><br />
-*  <i class="fa fa-facebook"></i> <a href="http://facebook.com/dongsamb">dongsamb</a><br />
+*  <i class="fa fa-facebook"></i> <a href="http://facebook.com/dongsam">dongsam</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a><br />
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/dongsamb">@dongsamb</a><br />
 *  <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/dongsam">linkedin</a><br />
