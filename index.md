@@ -35,8 +35,8 @@ __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine 
 
 * Python
 * Flask
-* AWS(EC2, ELB, RDS, CF, S3, Lambda)
-* tensorflow
+* AWS (EC2, ELB, RDS, CF, S3, Lambda)
+* TensorFlow
 * scikit-learn
 * gensim
 
@@ -53,7 +53,7 @@ AWS 시스템 구축 및 관리
 
 * Python
 * Django
-* AWS(EB, RDS, Lambda, SQS, CF, S3)
+* AWS (EB, RDS, Lambda, SQS, CF, S3)
 * Git
 * Slack
 * Trello
@@ -124,11 +124,9 @@ __고려대학교__ 일반대학원 컴퓨터학 재학 / 석사 3학기
 * 벤처투자론
 
 `2011-15`
-__동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업
-
+__동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br><br>
 -인공지능 연구실, 학부 연구생 및 조교
 
-<br>
 
 ## Projects
 
