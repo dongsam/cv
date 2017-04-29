@@ -3,7 +3,7 @@ layout: cv
 title: 변동삼 
 ---
 
-# 변동삼
+# 변동삼 [Dongsam Byun]
 
 Python Backend Developer, Machine Learning Engineer
 
@@ -60,10 +60,10 @@ AWS 시스템 구축 및 관리
 * PostgreSQL
 
 
-<!-- ### __옐로금융그룹(Nomad Connection)__ -->
+<!-- ### __(구)옐로금융그룹(Nomad Connection)__ -->
 
 `2015-16`
-__옐로금융그룹(Nomad Connection)__, 연구원
+__데일리금융그룹(Nomad Connection)__, 연구원
 
 -Log 수집 및 분석 시스템 개발
 
@@ -273,6 +273,8 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 `2014` 빅데이터 분석을 통한 피자 판매량 예측 / Pizza Sales Prediction by Using Big Data Analysis  / 한국정보처리학회 2014 추계 학술대회 VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
 
 ## Presentations
+
+`2017` [채용 서비스에서 머신러닝 도입하기, Machine Learning Engineer Meetup, WANTED x wework](https://www.wanted.co.kr/events/ml)
 
 `2014` 판매정보 빅데이터 분석을 통한 판매 예측 시스템, 한이음 엑스포 2014, 코엑스 [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
 
