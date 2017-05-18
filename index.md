@@ -7,7 +7,8 @@ title: 변동삼
 
 Python Backend Developer, Machine Learning Engineer
 
-interested in data about text and finance
+interested in data about text, finance and blockchain
+
 
 <div id="webaddress">
 |
@@ -17,28 +18,33 @@ interested in data about text and finance
 
 ## Employment
 
-`2016-`
-__원티드랩__, Software Engineer
+`2016-2017`
+__원티드랩__, Data, Software Engineer
 
 __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine Learning, Backend, REST API Development
 
-<br>
--이력서, JD 텍스트 형태소 분석 및 키워드 추출 ( TF-IDF, Word2vec )
-
--직무 직군 collaborative filtering 및 유사도 분석
+-이력서, JD 텍스트 형태소 분석 및 키워드 추출 ( NLP, TF-IDF, Word2vec )
 
 -유저, JD 간의 매칭 스코어링 및 합격, 불합격 확률 측정 모델 개발
 
--[회사 뉴스 크롤링, 비관련 뉴스 필터링](https://www.wanted.co.kr/news)
+-recommendation, matching system, collaborative filtering
 
-<br>
+-[회사 뉴스 크롤링, 비관련 뉴스 필터링](https://www.wanted.co.kr/news)
 
 * Python
 * Flask
-* AWS (EC2, ELB, RDS, CF, S3, Lambda)
+* AWS(EC2, ELB, RDS, CF, S3, Lambda)
+* Redis
+* Jupyter
+* gensim
+* KoNLPy
+* Numpy
 * TensorFlow
 * scikit-learn
-* gensim
+* Celery
+* SQLAlchemy
+* Mysql
+* Elasticsearch
 
 <br>
 
@@ -63,7 +69,7 @@ AWS 시스템 구축 및 관리
 <!-- ### __(구)옐로금융그룹(Nomad Connection)__ -->
 
 `2015-16`
-__데일리금융그룹(Nomad Connection)__, 연구원
+__데일리금융그룹(Nomad Connection)__, 연구원([DataLabs](https://kldp.org/node/153490))
 
 -Log 수집 및 분석 시스템 개발
 
@@ -113,7 +119,8 @@ __Automation__
 
 ## Education
 `2015-`
-__고려대학교__ 일반대학원 컴퓨터학 재학 / 석사 3학기
+__고려대학교__ 일반대학원 컴퓨터학 재학<br>
+'18 졸업, 전문연구요원 예정
 
 * 빅데이터마이닝 이론 및 실습
 * 빅데이터 텍스트 마이닝
@@ -168,20 +175,29 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 ## Technical skills
 
 * Python
-* Django
 * Flask
+* Django
 * Web Crawling
 * AWS
 * Git
 * MongoDB
 * Mysql / PostgreSQL
+* Celery
 * Gensim
 * Zipline
 * Spark
 * Selenium
 * TensorFlow
+* Redis
+* SQLAlchemy
+* scikit-learn
+* Jupyter
+* NLP(Korean, English)
 * DevOps
 * Agile
+* System Trading(backtest)
+* ElasticSearch
+* Beautiful Soup
 
 ## Activities
 
@@ -302,5 +318,6 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/dongsamb">@dongsamb</a><br />
 *  <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/dongsam">linkedin</a><br />
 *  <i class="fa fa-youtube"></i> <a href="https://www.youtube.com/dongsamb">youtube</a><br />
+*  <i class="fa fa-bookmark"></i> <a href="http://cv.dongsamb.com">CV</a><br />
 
 
