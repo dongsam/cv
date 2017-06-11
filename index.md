@@ -19,17 +19,17 @@ interested in data about text, finance and blockchain
 ## Employment
 
 `2016-2017`
-__원티드랩__, Data, Software Engineer
+__원티드랩__, Machine Learning, Software Engineer (Matching Cell)
 
 __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine Learning, Backend, REST API Development
 
 -이력서, JD 텍스트 형태소 분석 및 키워드 추출 ( NLP, TF-IDF, Word2vec )
 
--유저, JD 간의 매칭 스코어링 및 합격, 불합격 확률 측정 모델 개발
+-유저, JD 간의 매칭 스코어링 및 합격, 불합격 확률 측정 모델 개발( Collaborative Filtering )
 
--recommendation, matching system, collaborative filtering
+-피처 모델링 및 Tensorflow 기반 딥러닝 매칭
 
--[회사 뉴스 크롤링, 비관련 뉴스 필터링](https://www.wanted.co.kr/news)
+-회사 뉴스 크롤링, 비관련 뉴스 필터링 <a href="https://www.wanted.co.kr/news"><i class="fa fa-link"></i></a>
 
 * Python
 * Flask
@@ -136,6 +136,13 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br><br>
 
 
 ## Projects
+
+`2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__
+
+Quantitative Aanlysis, Text Mining, Open Source Analysis, Machine Learning Approach [[github]](https://github.com/dongsam/Pycon-KR-2017-Proposal)
+
+Sentimet Aanlysis about Chatting data using doc2vec [[github]](https://gist.github.com/dongsam/5284ec14756551beb2c79076e86db210)
+
 
 `2015` __Logdig: Web/App Big Log Analysis Framework__
 
