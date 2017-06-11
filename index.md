@@ -46,7 +46,6 @@ __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine 
 * Mysql
 * Elasticsearch
 
-<br>
 
 <!-- ### __(주)처음__ -->
 
