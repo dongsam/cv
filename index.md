@@ -3,7 +3,7 @@ layout: cv
 title: 변동삼 
 ---
 
-# 변동삼 [Dongsam Byun]
+# 변동삼 [Dongsam Byun] <a href="http://cv.dongsamb.com"><i class="fa fa-link"></i></a>
 
 Python Backend Developer, Machine Learning Engineer
 
@@ -29,7 +29,8 @@ __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine 
 
 -피처 모델링 및 Tensorflow 기반 딥러닝 매칭
 
--회사 뉴스 크롤링, 비관련 뉴스 필터링 <a href="https://www.wanted.co.kr/news"><i class="fa fa-link"></i></a>
+-회사 뉴스 크롤링, 비관련 뉴스 필터링 
+<!-- <a href="https://www.wanted.co.kr/news"><i class="fa fa-link"></i></a> -->
 
 * Python
 * Flask
@@ -177,7 +178,7 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 라즈베리파이를 이용한 임베디드 보안 장비 제작 [[youtube]](https://youtu.be/lHfWZl-cTEw)
 
-
+<!-- 
 ## Technical skills
 
 * Python
@@ -204,6 +205,13 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 * System Trading(backtest)
 * ElasticSearch
 * Beautiful Soup
+ -->
+
+## Contributions
+
+* ethereum/wiki [[github]](https://github.com/ethereum/wiki)
+* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum)
+* ko2vec [[github]](https://github.com/dongsam/ko2vec)
 
 ## Activities
 
