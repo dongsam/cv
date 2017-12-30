@@ -18,7 +18,7 @@ interested in data about text, finance and blockchain
 
 ## Employment
 
-`2016-2017`
+`2016-17`
 __원티드랩__, Machine Learning, Software Engineer (Matching Cell)
 
 __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine Learning, Backend, REST API Development
@@ -207,11 +207,14 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 * Beautiful Soup
  -->
 
-## Contributions
+## Contributions [[github]](https://github.com/dongsam)
 
+* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin)
+* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden)
 * ethereum/wiki [[github]](https://github.com/ethereum/wiki)
-* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum)
 * ko2vec [[github]](https://github.com/dongsam/ko2vec)
+* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum)
+* logdig [[github]](https://github.com/dongsam/logdig)
 
 ## Activities
 
@@ -304,7 +307,11 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 ## Presentations
 
-`2017` [채용 서비스에서 머신러닝 도입하기, Machine Learning Engineer Meetup, WANTED x wework](https://www.wanted.co.kr/events/ml)
+`2017` 이더리움 합의 알고리즘과 마이닝, 이더리움 연구회(이연), 구글 캠퍼스 서울 <a href="https://www.slideshare.net/jaehyun/2-81886172"><i class="fa fa-link"></i></a>
+
+`2017` 이더리움 A to Z, 블록체인 비지니스 연구회 <a href="https://drive.google.com/open?id=1u0Row7V81EV_Vci5nLtyFprBWF_cGWiu"><i class="fa fa-link"></i></a>
+
+`2017` 채용 서비스에서 머신러닝 도입하기, Machine Learning Engineer Meetup, WANTED x wework <a href="https://www.wanted.co.kr/events/ml"><i class="fa fa-link"></i></a>
 
 `2014` 판매정보 빅데이터 분석을 통한 판매 예측 시스템, 한이음 엑스포 2014, 코엑스 [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
 
