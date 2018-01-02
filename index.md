@@ -209,12 +209,13 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 ## Contributions [[github]](https://github.com/dongsam)
 
-* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin)
-* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden)
-* ethereum/wiki [[github]](https://github.com/ethereum/wiki)
-* ko2vec [[github]](https://github.com/dongsam/ko2vec)
-* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum)
+* tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/issues?q=author%3Adongsam+)
+* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/issues?q=author%3Adongsam+)
+* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/issues?q=author%3Adongsam+)
+<!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
 * logdig [[github]](https://github.com/dongsam/logdig)
+* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
+* ko2vec [[github]](https://github.com/dongsam/ko2vec)
 
 ## Activities
 
