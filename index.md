@@ -18,6 +18,21 @@ interested in data about text, finance and blockchain
 
 ## Employment
 
+`2018-`
+__[TBA]__, Blockchain Engineer
+
+ICO, Wallet Development, Ethereum, Bitcoin, Smart Contract, CryptoCurrency
+
+* Ethereum
+* Bitcoin
+* Geth
+* Web3
+* Solidity
+* Python
+* Flask
+* AWS(EC2, ELB, RDS, EB) 
+* PostgreSQL
+
 `2016-17`
 __원티드랩__, Machine Learning, Software Engineer (Matching Cell)
 
@@ -331,15 +346,17 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 `2009` 해킹보안전문가 (한국해킹보안협회)
 
+<br />
+<br />
 
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a><br />
-*  <i class="fa fa-facebook"></i> <a href="http://facebook.com/dongsam">dongsam</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a><br />
+*  <i class="fa fa-facebook"></i> <a href="http://facebook.com/dongsam">Facebook</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/dongsam">Github</a><br />
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/dongsamb">@dongsamb</a><br />
-*  <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/dongsam">linkedin</a><br />
-*  <i class="fa fa-youtube"></i> <a href="https://www.youtube.com/dongsamb">youtube</a><br />
+*  <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/dongsam">Linkedin</a><br />
+*  <i class="fa fa-youtube"></i> <a href="https://www.youtube.com/dongsamb">Youtube</a><br />
 *  <i class="fa fa-bookmark"></i> <a href="http://cv.dongsamb.com">CV</a><br />
-
+* <i class="fa fa-link"></i> <a href="https://steemit.com/@dongsamb">Steem</a><br />
 
