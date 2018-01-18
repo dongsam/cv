@@ -21,7 +21,11 @@ interested in data about text, finance and blockchain
 `2018-`
 __[TBA]__, Blockchain Engineer
 
-ICO, Wallet Development, Ethereum, Bitcoin, Smart Contract, CryptoCurrency
+-Ethereum 기반 Private Blockchain 및 Ledger 구축
+
+-Bitcoin, Ethereum 기반 Hot wallet, Cold wallet, 환전 시스템 구축
+
+-ICO 를 위한 Smart Contract 개발 및 ERC20 Token 발행
 
 * Ethereum
 * Bitcoin
@@ -70,7 +74,11 @@ __(주)처음__, 개발팀장
 
 __[씨유펀드 (cufund.co.kr)](https://cufund.co.kr)__ P2P 대출 플랫폼  Backend, Full Stack 개발 총괄
 
-AWS 시스템 구축 및 관리
+-P2P 대출 플랫폼 설계 및 개발 총괄
+
+-신용등급 조회, 본인인증, 가상계좌 연동
+
+-AWS 시스템 구축 및 관리
 
 * Python
 * Django
@@ -346,8 +354,6 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 `2009` 해킹보안전문가 (한국해킹보안협회)
 
-<br />
-<br />
 
 ## Links
 
