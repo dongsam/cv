@@ -30,7 +30,7 @@ __[TBA]__, Blockchain Engineer
 * Ethereum
 * Bitcoin
 * Geth
-* Web3
+* web3.py
 * Solidity
 * Python
 * Flask
@@ -239,6 +239,7 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 * logdig [[github]](https://github.com/dongsam/logdig)
 * ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
 * ko2vec [[github]](https://github.com/dongsam/ko2vec)
+* web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
 
 ## Activities
 
@@ -331,11 +332,13 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 ## Presentations
 
-`2017` 이더리움 합의 알고리즘과 마이닝, 이더리움 연구회(이연), 구글 캠퍼스 서울 <a href="https://www.slideshare.net/jaehyun/2-81886172"><i class="fa fa-link"></i></a>
+`2017` 이더리움 합의 알고리즘과 마이닝, 이더리움 연구회(이연), 구글 캠퍼스 서울 <a href="https://steemit.com/kr/@dongsamb/ethereum-pow-ethash"><i class="fa fa-link"></i></a>
 
-`2017` 이더리움 A to Z, 블록체인 비지니스 연구회 <a href="https://drive.google.com/open?id=1u0Row7V81EV_Vci5nLtyFprBWF_cGWiu"><i class="fa fa-link"></i></a>
+`2017` 이더리움 A to Z, 블록체인 비지니스 연구회 <a href="https://www.slideshare.net/dongsamb/ethereum-a-to-z-86457535"><i class="fa fa-link"></i></a>
 
 `2017` 채용 서비스에서 머신러닝 도입하기, Machine Learning Engineer Meetup, WANTED x wework <a href="https://www.wanted.co.kr/events/ml"><i class="fa fa-link"></i></a>
+
+`2015` 화이트박스 테스팅, 2015 monsterz 세미나, 한양대학교 <a href="https://www.slideshare.net/dongsamb/ss-86457804"><i class="fa fa-link"></i></a>
 
 `2014` 판매정보 빅데이터 분석을 통한 판매 예측 시스템, 한이음 엑스포 2014, 코엑스 [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
 
