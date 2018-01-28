@@ -18,7 +18,7 @@ interested in NLP, text and finance Data
 </div> -->
 <i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a><br />
 
-## Employment
+## Experience
 
 `2018-`
 __[TBA]__, Blockchain Engineer
