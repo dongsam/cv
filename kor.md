@@ -160,6 +160,18 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br><br>
 -인공지능 연구실, 학부 연구생 및 조교
 
 
+## Contributions [[github]](https://github.com/dongsam)
+
+* tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/issues?q=author%3Adongsam+)
+* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/issues?q=author%3Adongsam+)
+* logdig [[github]](https://github.com/dongsam/logdig)
+* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/issues?q=author%3Adongsam+)
+<!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
+* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
+* ko2vec [[github]](https://github.com/dongsam/ko2vec)
+* ethereum/web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
+
+
 ## Projects
 
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
@@ -231,17 +243,6 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 * ElasticSearch
 * Beautiful Soup
  -->
-
-## Contributions [[github]](https://github.com/dongsam)
-
-* tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/issues?q=author%3Adongsam+)
-* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/issues?q=author%3Adongsam+)
-* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/issues?q=author%3Adongsam+)
-<!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
-* logdig [[github]](https://github.com/dongsam/logdig)
-* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
-* ko2vec [[github]](https://github.com/dongsam/ko2vec)
-* web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
 
 ## Activities
 

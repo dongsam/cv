@@ -169,6 +169,18 @@ __Dongguk University__, B.S. in Computer Science and Engineering<br><br>
 -AI Lab (RA, TA)
 
 
+## Contributions [[github]](https://github.com/dongsam)
+
+* tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/issues?q=author%3Adongsam+)
+* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/issues?q=author%3Adongsam+)
+* logdig [[github]](https://github.com/dongsam/logdig)
+* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/issues?q=author%3Adongsam+)
+<!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
+* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
+* ko2vec [[github]](https://github.com/dongsam/ko2vec)
+* ethereum/web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
+
+
 ## Projects
 
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
@@ -240,17 +252,6 @@ Manufacture of embedded security equipment using Raspberry-Pie [[youtube]](https
 * ElasticSearch
 * Beautiful Soup
  -->
-
-## Contributions [[github]](https://github.com/dongsam)
-
-* tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/issues?q=author%3Adongsam+)
-* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/issues?q=author%3Adongsam+)
-* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/issues?q=author%3Adongsam+)
-<!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
-* logdig [[github]](https://github.com/dongsam/logdig)
-* ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
-* ko2vec [[github]](https://github.com/dongsam/ko2vec)
-* web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
 
 ## Activities
 
