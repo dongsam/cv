@@ -8,7 +8,7 @@ title: Dongsam Byun's CV
 
 Blockchain, Machine Learning, Python Backend Engineer
 
-interested in NLP, text and finance Data
+interested in text and finance data
 
 
 <!-- <div id="webaddress">
@@ -16,28 +16,28 @@ interested in NLP, text and finance Data
 <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a>
 |
 </div> -->
-<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a><br />
+<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> | <i class="fa fa-mobile"></i> +82 lO-5l44-O3O3<br />
 
 ## Experience
 
-`2018-`
-__[TBA]__, Blockchain Engineer
+`2017-`
+__Self-employed__, Freelancer Blockchain Engineer, Lecturer, Consultant, Researcher
 
 -Built Private Blockchain and Ledger based Ethereum
 
--Building Hot wallet, Cold wallet for CryptoCurrency convertibility
+-Developing Smart Contract, Dapp for publish ERC20 Token and ICO
 
--Developing Smart Contract for publish ERC20 Token and ICO
+-Building Hot wallet, Cold wallet for CryptoCurrency convertibility
 
 * Ethereum
 * Bitcoin
 * Geth
 * web3.py
+* web3.js
 * Solidity
 * Python
 * Flask
-* AWS(EC2, ELB, RDS, EB) 
-* PostgreSQL
+* AWS
 
 `2016-17`
 __WantedLab__, Machine Learning, Software Engineer (Matching Cell)
@@ -115,7 +115,7 @@ __DAYLI Financial Group(Nomad Connection)__, Researcher([DataLabs](https://kldp.
 
 
 `2014-15`
-__Self-employment__, Freelancer
+__Self-employed__, Freelancer
 
 __Web, Data Crawler Development__
 
