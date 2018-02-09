@@ -164,13 +164,13 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br><br>
 ## Contributions [[github]](https://github.com/dongsam)
 
 * ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
-* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/issues?q=author%3Adongsam+)
+* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/pull/996)
 * dongsam/logdig [[github]](https://github.com/dongsam/logdig)
 * ethereum/web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
 <!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
-* tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/issues?q=author%3Adongsam+)
+* tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/pull/15772)
 * dongsam/ko2vec [[github]](https://github.com/dongsam/ko2vec)
-* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/issues?q=author%3Adongsam+)
+* bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/pull/11291)
 
 ## Projects
 
