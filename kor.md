@@ -7,7 +7,7 @@ title: 변동삼 이력서
 
 <!-- <i class="fa fa-link"></i> -->
 
-Blockchain, Machine Learning, Python Backend Engineer
+Blockchain Engineer with Machine Learning and Python Backend
 
 interested in text and finance data
 
@@ -26,9 +26,11 @@ __Self-employed__, Freelancer Blockchain Engineer, Lecturer, Consultant, Researc
 
 -Ethereum 기반 Private Blockchain 및 Ledger 구축
 
--Smart Contract, Dapp 개발 및 ERC20 Token 발행, ICO
+-Geth, web3.py 를 통한 블록체인 백엔드 서버 개발
 
--Bitcoin, Ethereum 기반 Hot wallet, Cold wallet, 환전 시스템 구축
+-Smart Contract, Dapp 개발 및 ERC20 Token 발행, ICO 진행
+
+-Solidity 를 활용한 Ethereum Smart Contract 프로그래밍 강의 진행, 패스트캠퍼스 <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
 
 * Ethereum
 * Bitcoin
@@ -75,7 +77,7 @@ __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine 
 `2016`
 __(주)처음__, 개발팀장
 
-__[씨유펀드 (cufund.co.kr)](https://cufund.co.kr/loan/)__ P2P 대출 플랫폼  Backend, Full Stack 개발 총괄
+__[씨유펀드](https://web.archive.org/web/20160724045309/https://cufund.co.kr/)__ P2P 대출 플랫폼  Backend, Full Stack 개발 총괄
 
 -P2P 대출 플랫폼 설계 및 개발 총괄
 
@@ -95,7 +97,7 @@ __[씨유펀드 (cufund.co.kr)](https://cufund.co.kr/loan/)__ P2P 대출 플랫�
 <!-- ### __(구)옐로금융그룹(Nomad Connection)__ -->
 
 `2015-16`
-__데일리금융그룹(Nomad Connection)__, 연구원([DataLabs](https://kldp.org/node/153490))
+__데일리금융그룹(Nomad Connection)__, 연구원(DataLabs)
 
 -Log 수집 및 분석 시스템 개발
 
@@ -144,9 +146,9 @@ __Automation__
 
 
 ## Education
-`2015-`
-__고려대학교__ 일반대학원 컴퓨터학 재학<br>
-'18 졸업, 전문연구요원 예정
+`2015-18`
+__고려대학교__ 일반대학원 컴퓨터학 수료<br>
+'19 졸업, 전문연구요원 계획
 
 * 빅데이터마이닝 이론 및 실습
 * 빅데이터 텍스트 마이닝
@@ -157,8 +159,13 @@ __고려대학교__ 일반대학원 컴퓨터학 재학<br>
 * 벤처투자론
 
 `2011-15`
-__동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br><br>
+__동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
+
+-빅데이터 분석을 통한 피자 판매량 예측, 한국정보처리학회 2014 추계 학술대회 VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
+
 -인공지능 연구실, 학부 연구생 및 조교
+
+
 
 
 ## Contributions [[github]](https://github.com/dongsam)
@@ -215,36 +222,12 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 라즈베리파이를 이용한 임베디드 보안 장비 제작 [[youtube]](https://youtu.be/lHfWZl-cTEw)
 
-<!-- 
-## Technical skills
 
-* Python
-* Flask
-* Django
-* Web Crawling
-* AWS
-* Git
-* MongoDB
-* Mysql / PostgreSQL
-* Celery
-* Gensim
-* Zipline
-* Spark
-* Selenium
-* TensorFlow
-* Redis
-* SQLAlchemy
-* scikit-learn
-* Jupyter
-* NLP(Korean, English)
-* DevOps
-* Agile
-* System Trading(backtest)
-* ElasticSearch
-* Beautiful Soup
- -->
 
 ## Activities
+
+`2018` 
+블로커톤(Blockchain Hackathon) 기술 멘토링 및 심사, 패스트캠퍼스 <a href="http://www.fastcampus.co.kr/hton_blockchain_2018/"><i class="fa fa-link"></i></a>
 
 `2015`
 고려대학교 컴퓨터보안연구실( CCSLAB ) Full-Time
@@ -263,6 +246,25 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 `2011-12` Microsoft Student Partner 5기 [ 한국 마이크로소프트 ]
 
 `2011-12` AhnLab 대학생 기자 7기 [ AhnLab ]
+
+
+
+## Presentations
+
+`2017` 이더리움 합의 알고리즘과 마이닝, 이더리움 연구회(이연), 구글 캠퍼스 서울 <a href="https://steemit.com/kr/@dongsamb/ethereum-pow-ethash"><i class="fa fa-link"></i></a>
+
+`2017` 이더리움 A to Z, 블록체인 비지니스 연구회 <a href="https://www.slideshare.net/dongsamb/ethereum-a-to-z-86457535"><i class="fa fa-link"></i></a>
+
+`2017` 채용 서비스에서 머신러닝 도입하기, Machine Learning Engineer Meetup, WANTED x wework <a href="https://www.wanted.co.kr/events/ml"><i class="fa fa-link"></i></a>
+
+`2015` 화이트박스 테스팅, 2015 monsterz 세미나, 한양대학교 <a href="https://www.slideshare.net/dongsamb/ss-86457804"><i class="fa fa-link"></i></a>
+
+`2014` 판매정보 빅데이터 분석을 통한 판매 예측 시스템, 한이음 엑스포 2014, 코엑스 [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
+
+`2014` Cisco CMX 기술을 통한 실내,외 Drone 기반 투어 및 제어 시스템, CISCO IoE Codefest, 송도 [[youtube]](https://www.youtube.com/watch?v=Yn5sWokdlQo)
+
+`2013` QR코드 스캔에 기초한 보안 결제 시스템, 코엑스 [[youtube]](https://www.youtube.com/watch?v=_MoKVDGuGe8)
+
 
 
 ## Trainings
@@ -329,25 +331,15 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 `2012` 암호화된 인증정보를 저장하고 있는 단말기를 통한 코드 스캔에 기초한 보안 결제 시스템 및 그 방법 _(공개, 1020120062929, 1020120135138)_
 
+
+
+<!--
+
 ## Publications
 
 `2014` 빅데이터 분석을 통한 피자 판매량 예측 / Pizza Sales Prediction by Using Big Data Analysis  / 한국정보처리학회 2014 추계 학술대회 VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
 
-## Presentations
-
-`2017` 이더리움 합의 알고리즘과 마이닝, 이더리움 연구회(이연), 구글 캠퍼스 서울 <a href="https://steemit.com/kr/@dongsamb/ethereum-pow-ethash"><i class="fa fa-link"></i></a>
-
-`2017` 이더리움 A to Z, 블록체인 비지니스 연구회 <a href="https://www.slideshare.net/dongsamb/ethereum-a-to-z-86457535"><i class="fa fa-link"></i></a>
-
-`2017` 채용 서비스에서 머신러닝 도입하기, Machine Learning Engineer Meetup, WANTED x wework <a href="https://www.wanted.co.kr/events/ml"><i class="fa fa-link"></i></a>
-
-`2015` 화이트박스 테스팅, 2015 monsterz 세미나, 한양대학교 <a href="https://www.slideshare.net/dongsamb/ss-86457804"><i class="fa fa-link"></i></a>
-
-`2014` 판매정보 빅데이터 분석을 통한 판매 예측 시스템, 한이음 엑스포 2014, 코엑스 [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
-
-`2014` Cisco CMX 기술을 통한 실내,외 Drone 기반 투어 및 제어 시스템, CISCO IoE Codefest, 송도 [[youtube]](https://www.youtube.com/watch?v=Yn5sWokdlQo)
-
-`2013` QR코드 스캔에 기초한 보안 결제 시스템, 코엑스 [[youtube]](https://www.youtube.com/watch?v=_MoKVDGuGe8)
+-->
 
 
 ## Certifications
@@ -372,3 +364,35 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 *  <i class="fa fa-bookmark"></i> <a href="http://cv.dongsamb.com">CV</a><br />
 * <i class="fa fa-link"></i> <a href="https://steemit.com/@dongsamb">Steem</a><br />
 
+
+
+
+<!-- 
+
+## Technical skills
+
+- Python
+- Flask
+- Django
+- Web Crawling
+- AWS
+- Git
+- MongoDB
+- Mysql / PostgreSQL
+- Celery
+- Gensim
+- Zipline
+- Spark
+- Selenium
+- TensorFlow
+- Redis
+- SQLAlchemy
+- scikit-learn
+- Jupyter
+- NLP(Korean, English)
+- DevOps
+- Agile
+- System Trading(backtest)
+- ElasticSearch
+- Beautiful Soup
+	-->

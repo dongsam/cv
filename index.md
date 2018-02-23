@@ -6,7 +6,7 @@ title: Dongsam Byun's CV
 # 변동삼 [Dongsam Byun] <a href="http://cv.dongsamb.com/kor">🇰🇷</a> <a href="http://cv.dongsamb.com">🇺🇸</a>
 <!-- <i class="fa fa-link"></i> -->
 
-Blockchain, Machine Learning, Python Backend Engineer
+Blockchain Engineer with Machine Learning and Python Backend
 
 interested in text and finance data
 
@@ -23,11 +23,13 @@ interested in text and finance data
 `2017-`
 __Self-employed__, Freelancer Blockchain Engineer, Lecturer, Consultant, Researcher
 
--Built Private Blockchain and Ledger based Ethereum
+-Built Ethereum Private Blockchain Network and Ledger
 
--Developing Smart Contract, Dapp for publish ERC20 Token and ICO
+-Implemented Blockchain Backend Server using Geth and web3.py
 
--Building Hot wallet, Cold wallet for CryptoCurrency convertibility
+-Developing Smart Contract, Dapp for publish ERC20 Token and ICO 
+
+-Lecture on Ethereum and Solidity Programming Course, Fast campus <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
 
 * Ethereum
 * Bitcoin
@@ -74,7 +76,7 @@ __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine 
 `2016`
 __Cheoum__, Lead Developer
 
-__[씨유펀드 (cufund.co.kr)](https://cufund.co.kr/loan/)__ Backend, Full Stack of P2P, P2B Crowd Funding Platform
+__[CUfund](https://web.archive.org/web/20160724045309/https://cufund.co.kr/)__ Backend, Full Stack of P2P, P2B Crowd Funding Platform
 
 -Developed whole web service of P2P Loan Platform
 
@@ -94,7 +96,7 @@ __[씨유펀드 (cufund.co.kr)](https://cufund.co.kr/loan/)__ Backend, Full Stac
 <!-- ### __(구)옐로금융그룹(Nomad Connection)__ -->
 
 `2015-16`
-__DAYLI Financial Group(Nomad Connection)__, Researcher([DataLabs](https://kldp.org/node/153490))
+__DAYLI Financial Group(Nomad Connection)__, Researcher(DataLabs)
 
 -Developed Log Collecting and analysis system for web page
 
@@ -145,7 +147,7 @@ __Automation__
 ## Education
 `2015-18`
 __Korea University__, M.S. in Computer Science and Engineering<br>
-'18 Expected
+'Expected in 2019
 
 <!-- * Bigdata mining practice -->
 * Text mining for bigdata
@@ -163,11 +165,16 @@ __Korea University__, M.S. in Computer Science and Engineering<br>
 * SOCIAL NETWORK SECURITY
 * RESEARCH IN SYSTEM SECURITY
 * VENTURE CAPITAL INVESTMENTS
- -->
-`2011-15`
-__Dongguk University__, B.S. in Computer Science and Engineering<br><br>
--AI Lab (RA, TA)
 
+
+-->
+
+`2011-15`
+__Dongguk University__, B.S. in Computer Science and Engineering<br>
+
+Pizza Sales Prediction by Using Big Data Analysis  / KIPS 2014 Fall Conference VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11) <br>
+
+AI Lab (RA, TA)
 
 ## Contributions [[github]](https://github.com/dongsam)
 
@@ -223,36 +230,12 @@ Alarm and action execution system by proximity approach detection [[youtube]](ht
 
 Manufacture of embedded security equipment using Raspberry-Pie [[youtube]](https://youtu.be/lHfWZl-cTEw)
 
-<!-- 
-## Technical skills
 
-* Python
-* Flask
-* Django
-* Web Crawling
-* AWS
-* Git
-* MongoDB
-* Mysql / PostgreSQL
-* Celery
-* Gensim
-* Zipline
-* Spark
-* Selenium
-* TensorFlow
-* Redis
-* SQLAlchemy
-* scikit-learn
-* Jupyter
-* NLP(Korean, English)
-* DevOps
-* Agile
-* System Trading(backtest)
-* ElasticSearch
-* Beautiful Soup
- -->
 
 ## Activities
+
+`2018` 
+Technical Mentoring, Judging for Blockathon ( Blockchain Hackathon ), Fastcampus <a href="http://www.fastcampus.co.kr/hton_blockchain_2018/"><i class="fa fa-link"></i></a>
 
 `2015`
 Korea University CCS Lab(Computer & Communication Security Laboratory) Full-Time
@@ -269,6 +252,24 @@ public-private joint investigation team for cyber security, [ Korea Ministry of 
 `2011-12` Microsoft Student Partner 5th [ Microsoft Korea ]
 
 <!-- `2011-12` AhnLab College journalist 7th [ AhnLab ] -->
+
+## Presentations
+
+`2017` Consensus Algorithm of Ethereum and Mining Flow, Korea Ethereum Research Group, Google Campus Seoul<a href="https://steemit.com/kr/@dongsamb/ethereum-pow-ethash"><i class="fa fa-link"></i></a>
+
+`2017` Ethereum A to Z, BlockChain Business Research Group <a href="https://www.slideshare.net/dongsamb/ethereum-a-to-z-86457535"><i class="fa fa-link"></i></a>
+
+`2017` Machine Learning Engineer Meetup, WANTED x wework <a href="https://www.wanted.co.kr/events/ml"><i class="fa fa-link"></i></a>
+
+`2015` Whitebox Testing, 2015 monsterz seminar, Hanyang Univ. <a href="https://www.slideshare.net/dongsamb/ss-86457804"><i class="fa fa-link"></i></a>
+
+`2014` Sales Prediction System by Using Big Data Analysis, Hanium expo 2014, COEX [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
+
+`2014` Drone-based tour and control systems with Cisco CMX technology, CISCO IoE Codefest, Song-do [[youtube]](https://www.youtube.com/watch?v=Yn5sWokdlQo)
+
+`2013` Secure payment system based on QR code scan, COEX [[youtube]](https://www.youtube.com/watch?v=_MoKVDGuGe8)
+
+
 
 ## Trainings
 
@@ -334,26 +335,13 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 `2012` SECURITY PAYMENT SYSTEM BASED ON A CODE SCAN THROUGH A TERMINAL STORING ENCODED AUTHENTICATION INFORMATION AND A METHOD THEREOF FOR SAFELY PERFORMING AUTHENTICATION AND PAYMENT _(Publication, 1020120062929)_
 
+<!--
+
 ## Publications
 
 `2014` Pizza Sales Prediction by Using Big Data Analysis  / KIPS 2014 Fall Conference VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
 
-## Presentations
-
-`2017` Consensus Algorithm of Ethereum and Mining Flow, Korea Ethereum Research Group, Google Campus Seoul<a href="https://steemit.com/kr/@dongsamb/ethereum-pow-ethash"><i class="fa fa-link"></i></a>
-
-`2017` Ethereum A to Z, BlockChain Business Research Group <a href="https://www.slideshare.net/dongsamb/ethereum-a-to-z-86457535"><i class="fa fa-link"></i></a>
-
-`2017` Machine Learning Engineer Meetup, WANTED x wework <a href="https://www.wanted.co.kr/events/ml"><i class="fa fa-link"></i></a>
-
-`2015` Whitebox Testing, 2015 monsterz seminar, Hanyang Univ. <a href="https://www.slideshare.net/dongsamb/ss-86457804"><i class="fa fa-link"></i></a>
-
-`2014` Sales Prediction System by Using Big Data Analysis, Hanium expo 2014, COEX [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg)
-
-`2014` Drone-based tour and control systems with Cisco CMX technology, CISCO IoE Codefest, Song-do [[youtube]](https://www.youtube.com/watch?v=Yn5sWokdlQo)
-
-`2013` Secure payment system based on QR code scan, COEX [[youtube]](https://www.youtube.com/watch?v=_MoKVDGuGe8)
-
+-->
 
 ## Certifications
 
@@ -377,3 +365,35 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 *  <i class="fa fa-bookmark"></i> <a href="http://cv.dongsamb.com">CV</a><br />
 * <i class="fa fa-link"></i> <a href="https://steemit.com/@dongsamb">Steem</a><br />
 
+
+
+
+<!-- 
+
+## Technical skills
+
+- Python
+- Flask
+- Django
+- Web Crawling
+- AWS
+- Git
+- MongoDB
+- Mysql / PostgreSQL
+- Celery
+- Gensim
+- Zipline
+- Spark
+- Selenium
+- TensorFlow
+- Redis
+- SQLAlchemy
+- scikit-learn
+- Jupyter
+- NLP(Korean, English)
+- DevOps
+- Agile
+- System Trading(backtest)
+- ElasticSearch
+- Beautiful Soup
+	-->
