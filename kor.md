@@ -22,7 +22,7 @@ interested in text and finance data
 ## Experience
 
 `2017-`
-__Self-employed__, Freelancer Blockchain Engineer, Lecturer, Consultant, Researcher
+__Self-employed__, Freelancer Blockchain Engineer, Lecturer, Advisor, Researcher
 
 -Ethereum 기반 Private Blockchain 및 Ledger 구축
 
