@@ -17,30 +17,44 @@ interested in text and finance data
 <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a>
 |
 </div> -->
-<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> | <i class="fa fa-mobile"></i> +82 lO-5l44-O3O3<br />
+<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> <br />
 
 ## Experience
 
-`2017-`
-__Self-employed__, Freelancer Blockchain Engineer, Lecturer, Advisor, Researcher
-
--Ethereum 기반 Private Blockchain 및 Ledger 구축
-
--Geth, web3.py 를 통한 블록체인 백엔드 서버 개발
+`2018-`
+[__The Language Network__](https://www.languagetoken.io/), Lead Blockchain Engineer
 
 -Smart Contract, Dapp 개발 및 ERC20 Token 발행, ICO 진행
 
--Solidity 를 활용한 Ethereum Smart Contract 프로그래밍 강의 진행, 패스트캠퍼스 <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
+-Geth, web3.py 를 통한 블록체인 백엔드 서버 개발
+
+-Ethereum 기반 Private Blockchain 및 Ledger 구축
 
 * Ethereum
-* Bitcoin
 * Geth
 * web3.py
 * web3.js
 * Solidity
+* IPFS
+* Truffle
 * Python
 * Flask
 * AWS
+
+
+
+`2017-`
+__Self-employed__, Freelancer Blockchain Engineer, Lecturer, Advisor, Researcher
+
+-ICO 및 블록체인 프로젝트 어드바이저
+
+-Solidity 를 활용한 Ethereum Smart Contract 프로그래밍 강의 진행, 패스트캠퍼스 <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
+
+-Ethereum, Solidity 프로그래밍 기술서적 집필 중 ( 위키북스, 연말 출간 예상 )
+
+-스마트 컨트랙트 보안 감사(Auditing)
+
+<br>
 
 `2016-17`
 __원티드랩__, Machine Learning, Software Engineer (Matching Cell)
@@ -181,6 +195,10 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 
 ## Projects
 
+`2018` **DAIPO: Decentralized Autonomous Initial Public(Person) Offering**  <a href="http://daipo.org"><i class="fa fa-link"></i></a> [[github]](https://github.com/daipo-org)
+
+`2018` **BurrowCoin: Etherum Deposit System with Token Economy**  <a href="http://burrowcoin.com/"><i class="fa fa-link"></i></a> [[github]](https://github.com/BurrowCoin)
+
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
 
 Quantitative Aanlysis, Text Mining, Open Source Analysis, Machine Learning Approach <a href="https://drive.google.com/file/d/0B6gSurLEKa0aTHlya3VyN0pFejA/view"><i class="fa fa-link"></i></a>
@@ -250,6 +268,8 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 
 ## Presentations
+
+`2018` Trends and View about Blockchain Develpment, Web World Contents Service Conference 2018 <a href="http://www.bizdeli.com/webworldcs/program.asp"><i class="fa fa-link"></i></a>
 
 `2017` 이더리움 합의 알고리즘과 마이닝, 이더리움 연구회(이연), 구글 캠퍼스 서울 <a href="https://steemit.com/kr/@dongsamb/ethereum-pow-ethash"><i class="fa fa-link"></i></a>
 
