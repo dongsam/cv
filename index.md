@@ -21,7 +21,7 @@ interested in text and finance data
 ## Experience
 
 `2018-`
-[__The Language Network__](https://www.languagetoken.io/), Lead Blockchain Engineer
+[__The Language Network__](https://languagenet.io/), Lead Blockchain Engineer
 
 -Developing Smart Contract, Dapp for publish ERC20 Token and ICO 
 
@@ -200,6 +200,10 @@ AI Lab (RA, TA)
 * tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/pull/15772)
 * dongsam/ko2vec [[github]](https://github.com/dongsam/ko2vec)
 * bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/pull/11291)
+* LanguageNetwork [[github]](https://github.com/languageNetwork)
+* solidity-korea [[github]](https://github.com/solidity-korea)
+* OpenMined [[github]](https://github.com/OpenMined)
+* BurrowCoin [[github]](https://github.com/BurrowCoin)
 
 ## Projects
 
