@@ -32,14 +32,15 @@ interested in text and finance data
 
 * Ethereum
 * Geth
-* web3.py
-* web3.js
+* Web3.py
+* Web3.js
 * Solidity
 * IPFS
 * Truffle
 * Python
 * Flask
 * AWS
+* Oraclize
 
 
 
@@ -185,6 +186,7 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 ## Contributions [[github]](https://github.com/dongsam)
 
 * ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
+* ethereum/solidity [[github]](https://github.com/ethereum/solidity/pull/3702)
 * raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/pull/996)
 * dongsam/logdig [[github]](https://github.com/dongsam/logdig)
 * ethereum/web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
