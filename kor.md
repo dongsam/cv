@@ -7,9 +7,9 @@ title: 변동삼 이력서
 
 <!-- <i class="fa fa-link"></i> -->
 
-Blockchain Engineer with Machine Learning and Python Backend
+Blockchain Engineer / ICO Technical Advisor
 
-interested in text and finance data
+Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning 
 
 
 <!-- <div id="webaddress">

@@ -6,9 +6,9 @@ title: Dongsam Byun's CV
 # Dongsam Byun [변동삼] <a href="http://cv.dongsamb.com/kor">🇰🇷</a> <a href="http://cv.dongsamb.com">🇺🇸</a>
 <!-- <i class="fa fa-link"></i> -->
 
-Blockchain Engineer with Machine Learning and Python Backend
+Blockchain Engineer / ICO Technical Advisor
 
-interested in text and finance data
+Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning 
 
 
 <!-- <div id="webaddress">
