@@ -22,7 +22,7 @@ Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning
 ## Experience
 
 `2018-`
-[__The Language Network__](https://languagenet.io/), Lead Blockchain Engineer
+[__The Language Network__](https://langnet.io), Lead Blockchain Engineer
 
 -Smart Contract, Dapp 개발 및 ERC20 Token 발행, ICO 진행
 
