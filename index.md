@@ -206,6 +206,7 @@ AI Lab (RA, TA)
 * solidity-korea [[github]](https://github.com/solidity-korea)
 * OpenMined [[github]](https://github.com/OpenMined)
 * BurrowCoin [[github]](https://github.com/BurrowCoin)
+* omisego/plasma-mvp [[github]](https://github.com/omisego/plasma-mvp)
 
 ## Projects
 

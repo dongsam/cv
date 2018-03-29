@@ -198,6 +198,7 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 * solidity-korea [[github]](https://github.com/solidity-korea)
 * OpenMined [[github]](https://github.com/OpenMined)
 * BurrowCoin [[github]](https://github.com/BurrowCoin)
+* omisego/plasma-mvp [[github]](https://github.com/omisego/plasma-mvp)
 
 ## Projects
 
