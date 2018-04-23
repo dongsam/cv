@@ -28,7 +28,7 @@ Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning
 
 -Geth, web3.py 를 통한 블록체인 백엔드 서버 개발
 
--Ethereum 기반 Private Blockchain 및 Ledger 구축
+-Ethereum 기반 sidechain 및 Ledger 구축
 
 * Ethereum
 * Geth
@@ -204,7 +204,7 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 
 `2018` **DAIPO: Decentralized Autonomous Initial Public(Person) Offering**  <a href="http://daipo.org"><i class="fa fa-link"></i></a> [[github]](https://github.com/daipo-org)
 
-`2018` **BurrowCoin: Etherum Deposit System with Token Economy**  <a href="http://burrowcoin.com/"><i class="fa fa-link"></i></a> [[github]](https://github.com/BurrowCoin)
+`2018` **BurrowCoin: Ethereum Deposit System with Token Economy**  <a href="http://burrowcoin.com/"><i class="fa fa-link"></i></a> [[github]](https://github.com/BurrowCoin)
 
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
 

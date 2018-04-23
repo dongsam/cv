@@ -27,7 +27,7 @@ Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning
 
 -Implemented Blockchain Backend Server using Geth and web3.py
 
--Built Ethereum Private Blockchain Network and Ledger
+-Built Ethereum Blockchain Network as a sidechain and Ledger
 
 - Ethereum
 - Geth
@@ -48,7 +48,7 @@ __Self-employed__, Freelancer Blockchain Engineer, Advisor, Lecturer, Author
 
 -Advise for ICO and Blockchain Projects
 
--Writing Smart contract Programing Book using Solidity and Etherum ( Wikibooks, expected at year-end )
+-Writing Smart contract Programing Book using Solidity and Ethereum ( Wikibooks, expected at year-end )
 
 -Lecture on Ethereum and Solidity Programming Course, Fast campus <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
 
@@ -212,7 +212,7 @@ AI Lab (RA, TA)
 
 `2018` **DAIPO: Decentralized Autonomous Initial Public(Person) Offering**  <a href="http://daipo.org"><i class="fa fa-link"></i></a> [[github]](https://github.com/daipo-org)
 
-`2018` **BurrowCoin: Etherum Deposit System with Token Economy**  <a href="http://burrowcoin.com/"><i class="fa fa-link"></i></a> [[github]](https://github.com/BurrowCoin)
+`2018` **BurrowCoin: Ethereum Deposit System with Token Economy**  <a href="http://burrowcoin.com/"><i class="fa fa-link"></i></a> [[github]](https://github.com/BurrowCoin)
 
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
 
