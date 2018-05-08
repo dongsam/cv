@@ -49,6 +49,8 @@ __Self-employed__, Freelancer Blockchain Engineer, Lecturer, Advisor, Researcher
 
 -ICO 및 블록체인 프로젝트 어드바이저
 
+-Blockchain Advisory Board Member, IIB Council  <a href="https://www.iibcouncil.org/advisory-board.html#tab8"><i class="fa fa-link"></i></a>
+
 -Solidity 를 활용한 Ethereum Smart Contract 프로그래밍 강의 진행, 패스트캠퍼스 <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
 
 -Ethereum, Solidity 프로그래밍 기술서적 집필 중 ( 위키북스, 연말 출간 예상 )

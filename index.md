@@ -48,6 +48,8 @@ __Self-employed__, Freelancer Blockchain Engineer, Advisor, Lecturer, Author
 
 -Advise for ICO and Blockchain Projects
 
+-Blockchain Advisory Board Member, IIB Council  <a href="https://www.iibcouncil.org/advisory-board.html#tab8"><i class="fa fa-link"></i></a>
+
 -Writing Smart contract Programing Book using Solidity and Ethereum ( Wikibooks, expected at year-end )
 
 -Lecture on Ethereum and Solidity Programming Course, Fast campus <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
