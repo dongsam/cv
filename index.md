@@ -6,9 +6,9 @@ title: Dongsam Byun's CV
 # Dongsam Byun [변동삼] <a href="http://cv.dongsamb.com/kor">🇰🇷</a> <a href="http://cv.dongsamb.com">🇺🇸</a>
 <!-- <i class="fa fa-link"></i> -->
 
-Blockchain Engineer / ICO Technical Advisor
+Blockchain Engineer / Blockchain Technical Advisor
 
-Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning 
+Ethereum / Solidity / Smart Contract / DApp / Tendermint / Cosmos / Python Backend / Machine Learning 
 
 
 <!-- <div id="webaddress">
@@ -20,10 +20,33 @@ Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning
 
 ## Experience
 
+
 `2018-`
+__B-Harvest__, CTO 
+
+-Building, managing and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
+
+-Developing sentiment analysis system for crypto assets
+
+-Designing Tokenized Fund using Smart Contracts
+
+- Cosmos
+- Tendermint
+- Elasticsearch
+- Kibana
+- Logstash
+- Prometheus
+- Ethereum
+- Solidity
+- Ansible
+- AWS(EC2, VPC, DX)
+- YubiHSM2
+- Go
+
+`2018`
 [__The Language Network__](https://langnet.io), Lead Blockchain Engineer
 
--Developing Smart Contract, Dapp for publish ERC20 Token and ICO 
+-Developed Smart Contract, Dapp for publish ERC20 Token and ICO 
 
 -Implemented Blockchain Backend Server using Geth and web3.py
 
@@ -50,7 +73,9 @@ __Self-employed__, Freelancer Blockchain Engineer, Advisor, Lecturer, Author
 
 -Blockchain Advisory Board Member, IIB Council  <a href="https://www.iibcouncil.org/advisory-board.html#tab8"><i class="fa fa-link"></i></a>
 
--Writing Smart contract Programing Book using Solidity and Ethereum ( Wikibooks, expected at year-end )
+-Advisory Board Member for Blockchain Tech [sidechain, smart contract], Storichain  <a href="http://storichain.io"><i class="fa fa-link"></i></a>
+
+<!-- -Writing Smart contract Programing Book using Solidity and Ethereum ( Wikibooks, expected at year-end ) -->
 
 -Lecture on Ethereum and Solidity Programming Course, Fast campus <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
 

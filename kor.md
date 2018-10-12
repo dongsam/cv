@@ -7,9 +7,9 @@ title: 변동삼 이력서
 
 <!-- <i class="fa fa-link"></i> -->
 
-Blockchain Engineer / ICO Technical Advisor
+Blockchain Engineer / Blockchain Technical Advisor
 
-Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning 
+Ethereum / Solidity / Smart Contract / DApp / Tendermint / Cosmos / Python Backend / Machine Learning 
 
 
 <!-- <div id="webaddress">
@@ -21,7 +21,31 @@ Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning
 
 ## Experience
 
+
 `2018-`
+__B-Harvest__, CTO 
+
+-[코스모스(Cosmos)](http://cosmos.network) 벨리데이터(DPoS) 노드 시스템 구축, 보안, 운영, 최적화
+
+-크립토 자산 운용을 위한 텍스트 데이터 수집, 분석
+
+-토크나이즈 펀드 smart contract 분석, 설계
+
+- Cosmos
+- Tendermint
+- Elasticsearch
+- Kibana
+- Logstash
+- Prometheus
+- Ethereum
+- Solidity
+- Ansible
+- AWS(EC2, VPC, DX)
+- YubiHSM2
+- Go
+
+
+`2018`
 [__The Language Network__](https://langnet.io), Lead Blockchain Engineer
 
 -Smart Contract, Dapp 개발 및 ERC20 Token 발행, ICO 진행
@@ -51,9 +75,11 @@ __Self-employed__, Freelancer Blockchain Engineer, Lecturer, Advisor, Researcher
 
 -Blockchain Advisory Board Member, IIB Council  <a href="https://www.iibcouncil.org/advisory-board.html#tab8"><i class="fa fa-link"></i></a>
 
--Solidity 를 활용한 Ethereum Smart Contract 프로그래밍 강의 진행, 패스트캠퍼스 <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
+-Technical Advisor [sidechain, smart contract], Storichain  <a href="http://storichain.io"><i class="fa fa-link"></i></a>
 
--Ethereum, Solidity 프로그래밍 기술서적 집필 중 ( 위키북스, 연말 출간 예상 )
+<!-- -Ethereum, Solidity 프로그래밍 기술서적 집필 중 ( 위키북스, 연말 출간 예상 ) -->
+
+-Solidity 를 활용한 Ethereum Smart Contract 프로그래밍 강의 진행, 패스트캠퍼스 <a href="http://www.fastcampus.co.kr/dev_camp_ether/"><i class="fa fa-link"></i></a>
 
 -스마트 컨트랙트 보안 감사(Auditing)
 
