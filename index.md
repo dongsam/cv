@@ -26,6 +26,8 @@ __B-Harvest__, CTO
 
 -Building, managing and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
 
+-Contributing [Gaiad (cosmos-sdk)](https://github.com/cosmos/cosmos-sdk) open source and Customizing for analysis, validation
+
 -Developing sentiment analysis system for crypto assets
 
 -Designing Tokenized Fund using Smart Contracts
@@ -234,6 +236,7 @@ AI Lab (RA, TA)
 * OpenMined [[github]](https://github.com/OpenMined)
 * BurrowCoin [[github]](https://github.com/BurrowCoin)
 * omisego/plasma-mvp [[github]](https://github.com/omisego/plasma-mvp)
+* cosmos/cosmos-sdk [[github]](https://github.com/cosmos/cosmos-sdk/pulls?q=is%3Apr+author%3Adongsam+)
 
 ## Projects
 

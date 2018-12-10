@@ -23,9 +23,11 @@ Ethereum / Solidity / Smart Contract / DApp / Tendermint / Cosmos / Python Backe
 
 
 `2018-`
-__B-Harvest__, CTO 
+__B-Harvest__ 비하베스트, CTO 
 
 -[코스모스(Cosmos)](http://cosmos.network) 벨리데이터(DPoS) 노드 시스템 구축, 보안, 운영, 최적화
+
+-[Gaiad (cosmos-sdk)](https://github.com/cosmos/cosmos-sdk)  오픈소스 컨트리뷰션, 커스터마이징, 분석
 
 -크립토 자산 운용을 위한 텍스트 데이터 수집, 분석
 
@@ -227,6 +229,7 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 * OpenMined [[github]](https://github.com/OpenMined)
 * BurrowCoin [[github]](https://github.com/BurrowCoin)
 * omisego/plasma-mvp [[github]](https://github.com/omisego/plasma-mvp)
+* cosmos/cosmos-sdk [[github]](https://github.com/cosmos/cosmos-sdk/pulls?q=is%3Apr+author%3Adongsam+)
 
 ## Projects
 
