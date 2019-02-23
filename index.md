@@ -22,11 +22,15 @@ Ethereum / Solidity / Smart Contract / DApp / Tendermint / Cosmos / Python Backe
 
 
 `2018-`
-__B-Harvest__, CTO 
+[__B-Harvest__](https://bharvest.io), CTO 
 
 -Building, managing and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
 
 -Contributing [Gaiad (cosmos-sdk)](https://github.com/cosmos/cosmos-sdk) open source and Customizing for analysis, validation
+
+-Ranked Top Tier in Cosmos Game of Stakes (moniker: bharvest)
+
+-Development and Consulting of Blockchain using Cosmos-SDK and Tendermint 
 
 -Developing sentiment analysis system for crypto assets
 
