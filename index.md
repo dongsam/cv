@@ -8,7 +8,7 @@ title: Dongsam Byun's CV
 
 Blockchain Engineer / Blockchain Technical Advisor
 
-Ethereum / Solidity / Smart Contract / DApp / Tendermint / Cosmos / Python Backend / Machine Learning 
+Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning 
 
 
 <!-- <div id="webaddress">
