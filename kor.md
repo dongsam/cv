@@ -27,13 +27,17 @@ Ethereum / Solidity / Smart Contract / DApp / Tendermint / Cosmos / Python Backe
 
 -[코스모스(Cosmos)](http://cosmos.network) 벨리데이터(DPoS) 노드 시스템 구축, 보안, 운영, 최적화
 
--[Gaiad (cosmos-sdk)](https://github.com/cosmos/cosmos-sdk)  오픈소스 컨트리뷰션, 커스터마이징, 분석
+-Cosmos, Terra, IRIS, Kava, Comdex, IDEX, etc Validator ( moniker: B-Harvest )
 
 -코스모스 게임 오브 스테이크(GoS) 참여, 상위 순위 유지 (moniker: bharvest)
 
--블록체인 기술 개발 및 컨설팅 ( Cosmos-SDK, Tendermint )
+-[Cosmos-SDK](https://github.com/cosmos/cosmos-sdk)  오픈소스 컨트리뷰션, 커스터마이징, 분석
 
--크립토 자산 운용을 위한 텍스트 데이터 수집, 분석
+-블록체인 기술 개발 및 컨설팅, 오디팅 ( Cosmos-SDK, Tendermint )
+
+-Cosmos Berlin Hackatom 2019, Honorable Mention, [dDex: decentralized Delegation Exchange](https://github.com/b-harvest/cosmos-sdk/tree/hackatom-berlin-change-delegator)
+
+-Cosmos Seoul Hackatom 2019, Speaker, [Database, Statistics, and Data Mining in dPoS Blockchain](https://cosmos.network/events/ha-buidl-2019)
 
 -토크나이즈 펀드 smart contract 분석, 설계
 

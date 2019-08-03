@@ -26,13 +26,17 @@ Ethereum / Solidity / Smart Contract / DApp / Tendermint / Cosmos / Python Backe
 
 -Building, managing and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
 
--Contributing [Gaiad (cosmos-sdk)](https://github.com/cosmos/cosmos-sdk) open source and Customizing for analysis, validation
+-Cosmos, Terra, IRIS, Kava, Comdex, IDEX, etc Validator ( moniker: B-Harvest )
 
 -Ranked Top Tier in Cosmos Game of Stakes (moniker: bharvest)
 
--Development and Consulting of Blockchain using Cosmos-SDK and Tendermint 
+-Contributing [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk) open source and Customizing for analysis, validation
 
--Developing sentiment analysis system for crypto assets
+-Development and Consulting, Auditing of Blockchain using Cosmos-SDK and Tendermint 
+
+-Cosmos Berlin Hackatom 2019, Honorable Mention, [dDex: decentralized Delegation Exchange](https://github.com/b-harvest/cosmos-sdk/tree/hackatom-berlin-change-delegator)
+
+-Cosmos Seoul Hackatom 2019, Speaker, [Database, Statistics, and Data Mining in dPoS Blockchain](https://cosmos.network/events/ha-buidl-2019)
 
 -Designing Tokenized Fund using Smart Contracts
 
