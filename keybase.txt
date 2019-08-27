@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dongsam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cv.dongsamb.com
+  * I am dongsam (https://keybase.io/dongsam) on keybase.
+  * I have a public key ASDJqG5l0WRBo4YEEi-Y4CAE6UeevQyf6hiamjwfq_9s0go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c97b578161770285f38ac11b9b9698016272bc643017e447fd14ff50bdc887be0a",
+      "host": "keybase.io",
+      "kid": "0120c9a86e65d16441a38604122f98e02004e9479ebd0c9fea189a9a3c1fabff6cd20a",
+      "uid": "4c637f1c96566c0824e599a7d7fba719",
+      "username": "dongsam"
+    },
+    "merkle_root": {
+      "ctime": 1566895688,
+      "hash": "abb225e0c9ad2d09e90bbc94def072ff341debac95a8550db40e8e504785bfe06fa0f1b2a9b51c4a34011b7eae0c5f27dd248ad8ddaa13a014aa4db1bd762b42",
+      "hash_meta": "d94d5909bbefb3a510a5c62e94d31db1486c791b06b551f21c0a432c4f203733",
+      "seqno": 6108007
+    },
+    "service": {
+      "entropy": "VvXZDaldlE0ghA+VW66NxyCV",
+      "hostname": "cv.dongsamb.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1566895717,
+  "expire_in": 504576000,
+  "prev": "e7d1dbc0c20977cba9e1c33f64a6c98f32c151a4600deaf6270679192cef0be9",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyahuZdFkQaOGBBIvmOAgBOlHnr0Mn+oYmpo8H6v/bNIKp3BheWxvYWTESpcCD8Qg59HbwMIJd8up4cM/ZKbJjzLBUaRgDer2JwZ5GSzvC+nEILkdejfWF2R4N91iBU6eobEsRBkzcG6wHvQZ5VeuBOVRAgHCo3NpZ8RAoMTPmUxo4gGTbKDVaFDQtAmIrsXXOpw2Z8DJunKwuP7YXusY//xSv9DofIGGrozJn2blJFx2RqsuGiRXARb5AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICImfEjR45DzrnNl5iQZz26OU4HicYVbOd9idtA/rm1Ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dongsam
+
+==================================================================
