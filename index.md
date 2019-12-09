@@ -16,7 +16,7 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backe
 <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a>
 |
 </div> -->
-<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> | <br />
+<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <a href="mailto:dongsamb@bharvest.io">dongsamb@bharvest.io</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> <br />
 
 ## Experience
 
@@ -26,32 +26,32 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backe
 
 -Building, managing and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
 
--Cosmos, Terra, IRIS, Kava, Comdex, IDEX, etc Validator ( moniker: B-Harvest )
+-Cosmos, Terra, IRIS, Kava, Comdex, Solana, Polkadot, IDEX, etc Validator ( moniker: B-Harvest )
 
--Ranked Top Tier in Cosmos Game of Stakes (moniker: bharvest)
+-Contributing [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/issues?q=dongsam) open source and Customizing for analysis, validation
 
--Contributing [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk) open source and Customizing for analysis, validation
-
--Development and Consulting, Auditing of Blockchain using Cosmos-SDK and Tendermint 
+-Development and Consulting, Auditing of Blockchains Based on Cosmos-SDK and Tendermint
 
 -Cosmos Berlin Hackatom 2019, Honorable Mention, [dDex: decentralized Delegation Exchange](https://github.com/b-harvest/cosmos-sdk/tree/hackatom-berlin-change-delegator)
 
 -Cosmos Seoul Hackatom 2019, Speaker, [Database, Statistics, and Data Mining in dPoS Blockchain](https://cosmos.network/events/ha-buidl-2019)
 
+-Ranked Top Tier in Cosmos Game of Stakes (moniker: bharvest)
+
 -Designing Tokenized Fund using Smart Contracts
 
 - Cosmos
 - Tendermint
-- Elasticsearch
-- Kibana
-- Logstash
+- ELK
 - Prometheus
 - Ethereum
 - Solidity
 - Ansible
 - AWS(EC2, VPC, DX)
 - YubiHSM2
-- Go
+- Golang
+- Rust
+- Python
 
 `2018`
 [__The Language Network__](https://langnet.io), Lead Blockchain Engineer
@@ -199,7 +199,7 @@ __Automation__
 ## Education
 `2015-18`
 __Korea University__, M.S. in Computer Science and Engineering<br>
-'Expected in 2019
+'Expected in 2020
 
 <!-- * Bigdata mining practice -->
 * Text mining for bigdata

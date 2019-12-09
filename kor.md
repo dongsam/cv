@@ -17,43 +17,41 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backe
 <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a>
 |
 </div> -->
-<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> <br />
+<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <a href="mailto:dongsamb@bharvest.io">dongsamb@bharvest.io</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> <br />
 
 ## Experience
 
-
 `2018-`
-[__B-Harvest__](https://bharvest.io/kor/) 비하베스트, CTO 
+[__B-Harvest__](https://bharvest.io) 비하베스트, CTO 
 
 -[코스모스(Cosmos)](http://cosmos.network) 벨리데이터(DPoS) 노드 시스템 구축, 보안, 운영, 최적화
 
--Cosmos, Terra, IRIS, Kava, Comdex, IDEX, etc Validator ( moniker: B-Harvest )
+-Cosmos, Terra, IRIS, Kava, Comdex, Solana, Polkadot, IDEX, etc Validator ( moniker: B-Harvest )
 
--코스모스 게임 오브 스테이크(GoS) 참여, 상위 순위 유지 (moniker: bharvest)
+-[Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/issues?q=dongsam)  오픈소스 컨트리뷰션, 커스터마이징, 분석
 
--[Cosmos-SDK](https://github.com/cosmos/cosmos-sdk)  오픈소스 컨트리뷰션, 커스터마이징, 분석
-
--블록체인 기술 개발 및 컨설팅, 오디팅 ( Cosmos-SDK, Tendermint )
+-블록체인 기술 개발 및 컨설팅, 오디팅 ( Cosmos-SDK, Tendermint 기반 체인들 )
 
 -Cosmos Berlin Hackatom 2019, Honorable Mention, [dDex: decentralized Delegation Exchange](https://github.com/b-harvest/cosmos-sdk/tree/hackatom-berlin-change-delegator)
 
 -Cosmos Seoul Hackatom 2019, Speaker, [Database, Statistics, and Data Mining in dPoS Blockchain](https://cosmos.network/events/ha-buidl-2019)
 
+-코스모스 게임 오브 스테이크(GoS) 참여, 상위 순위 유지 (moniker: bharvest)
+
 -토크나이즈 펀드 smart contract 분석, 설계
 
 - Cosmos
 - Tendermint
-- Elasticsearch
-- Kibana
-- Logstash
+- ELK
 - Prometheus
 - Ethereum
 - Solidity
 - Ansible
 - AWS(EC2, VPC, DX)
 - YubiHSM2
-- Go
-
+- Golang
+- Rust
+- Python
 
 `2018`
 [__The Language Network__](https://langnet.io), Lead Blockchain Engineer
@@ -201,7 +199,7 @@ __Automation__
 ## Education
 `2015-18`
 __고려대학교__ 일반대학원 컴퓨터학 수료<br>
-'19 졸업, 전문연구요원 계획
+'20 졸업, 전문연구요원 계획
 
 * 빅데이터마이닝 이론 및 실습
 * 빅데이터 텍스트 마이닝
