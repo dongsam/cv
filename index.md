@@ -8,7 +8,7 @@ title: Dongsam Byun's CV
 
 Blockchain Engineer / Blockchain Technical Advisor
 
-Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning 
+Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Go, Python Backend
 
 
 <!-- <div id="webaddress">
@@ -20,27 +20,24 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backe
 
 ## Experience
 
-
 `2018-`
 [__B-Harvest__](https://bharvest.io), CTO 
+
+-Contributing [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam) open source and Customizing for analysis, validation
+
+-Development and Consulting, Auditing of Blockchains Based on Cosmos-SDK and Tendermint ([Kava](https://medium.com/@bharvest/kava-cdp-and-auction-module-audit-result-by-b-harvest-97df177924a3), [Terra](https://github.com/terra-project/core/pulls?q=is:pr%20author:dongsam), etc.)
+
+-Developing tendermint [Liquidity Module](https://github.com/tendermint/liquidity) of the Cosmos-SDK, which serves AMM(Automated Market Makers)
 
 -Building, managing and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
 
 -Cosmos, Terra, IRIS, Kava, Comdex, Solana, Polkadot, IDEX, etc Validator ( moniker: B-Harvest )
 
--Contributing [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/issues?q=dongsam) open source and Customizing for analysis, validation
-
--Development and Consulting, Auditing of Blockchains Based on Cosmos-SDK and Tendermint
-
--Cosmos Berlin Hackatom 2019, Honorable Mention, [dDex: decentralized Delegation Exchange](https://github.com/b-harvest/cosmos-sdk/tree/hackatom-berlin-change-delegator)
-
--Cosmos Seoul Hackatom 2019, Speaker, [Database, Statistics, and Data Mining in dPoS Blockchain](https://cosmos.network/events/ha-buidl-2019)
-
 -Ranked Top Tier in Cosmos Game of Stakes (moniker: bharvest)
 
 -Designing Tokenized Fund using Smart Contracts
 
-- Cosmos
+- Cosmos-SDK
 - Tendermint
 - ELK
 - Prometheus
@@ -48,13 +45,12 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backe
 - Solidity
 - Ansible
 - AWS(EC2, VPC, DX)
-- YubiHSM2
 - Golang
 - Rust
 - Python
 
 `2018`
-[__The Language Network__](https://langnet.io), Lead Blockchain Engineer
+[__The Language Network__(Atlas Labs)](https://langnet.io), Lead Blockchain Engineer
 
 -Developed Smart Contract, Dapp for publish ERC20 Token and ICO 
 
@@ -199,9 +195,9 @@ __Automation__
 ## Education
 `2015-18`
 __Korea University__, M.S. in Computer Science and Engineering<br>
-'Expected in 2020
 
 <!-- * Bigdata mining practice -->
+
 * Text mining for bigdata
 * Bigdata planning and analysis
 * Advanced information retrieval
@@ -230,23 +226,28 @@ AI Lab (RA, TA)
 
 ## Contributions [[github]](https://github.com/dongsam)
 
+* cosmos/cosmos-sdk [[github]](https://github.com/cosmos/cosmos-sdk/pulls?q=is:pr author:dongsam )
+* tendermint/tendermint [[github]](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam )
+* tendermint/liquidity [[github]](https://github.com/tendermint/liquidity/pulls?q=is:pr%20author:dongsam )
 * ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
 * ethereum/solidity [[github]](https://github.com/ethereum/solidity/pull/3702)
-* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/pull/996)
-* dongsam/logdig [[github]](https://github.com/dongsam/logdig)
+<!--* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/pull/996) -->
+<!-- *dongsam/logdig [[github]](https://github.com/dongsam/logdig) -->
 * ethereum/web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
 <!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
 * tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/pull/15772)
-* dongsam/ko2vec [[github]](https://github.com/dongsam/ko2vec)
+<!-- *dongsam/ko2vec [[github]](https://github.com/dongsam/ko2vec) -->
 * bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/pull/11291)
 * LanguageNetwork [[github]](https://github.com/languageNetwork)
 * solidity-korea [[github]](https://github.com/solidity-korea)
 * OpenMined [[github]](https://github.com/OpenMined)
-* BurrowCoin [[github]](https://github.com/BurrowCoin)
 * omisego/plasma-mvp [[github]](https://github.com/omisego/plasma-mvp)
-* cosmos/cosmos-sdk [[github]](https://github.com/cosmos/cosmos-sdk/pulls?q=is%3Apr+author%3Adongsam+)
 
 ## Projects
+
+`2020` **Liquidity: Tendermint AMM Liquidity Module of Cosmos-SDK**  <a href="https://github.com/b-harvest/Liquidity-Module-For-the-Hub"><i class="fa fa-link"></i></a> [[github]](https://github.com/tendermint/liquidity)
+
+`2019` **Four-Pillars-Project: better validator operation of Tendermint/Cosmos-SDK**  [[github]](https://github.com/b-harvest/Four-Pillars-Project)
 
 `2018` **DAIPO: Decentralized Autonomous Initial Public(Person) Offering**  <a href="http://daipo.org"><i class="fa fa-link"></i></a> [[github]](https://github.com/daipo-org)
 
@@ -297,6 +298,10 @@ Manufacture of embedded security equipment using Raspberry-Pie [[youtube]](https
 
 ## Activities
 
+`2020` Cosmos Community Contributor Grants <a href="https://blog.cosmos.network/cosmos-community-contributor-grants-75e24532c261"><i class="fa fa-link"></i></a>
+
+`2019` Cosmos Berlin Hackatom 2019, Honorable Mention, dDex: decentralized Delegation Exchange <a href="https://hackatom-berlin.cosmos.network/"><i class="fa fa-link"></i></a>
+
 `2018` 
 Technical Mentoring, Judging for Blockathon ( Blockchain Hackathon ), Fastcampus <a href="http://www.fastcampus.co.kr/hton_blockchain_2018/"><i class="fa fa-link"></i></a>
 
@@ -317,6 +322,8 @@ public-private joint investigation team for cyber security, [ Korea Ministry of 
 <!-- `2011-12` AhnLab College journalist 7th [ AhnLab ] -->
 
 ## Presentations
+
+`2019` Database, Statistics, and Data Mining in dPoS Blockchain, Cosmos Seoul Hackatom 2019  <a href="https://www.buidl.asia/hackatom"><i class="fa fa-link"></i></a>
 
 `2018` Trends and View about Blockchain Develpment, Web World Contents Service Conference 2018 <a href="http://www.bizdeli.com/webworldcs/program.asp"><i class="fa fa-link"></i></a>
 
@@ -437,6 +444,7 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 ## Technical skills
 
+- Go
 - Python
 - Flask
 - Django

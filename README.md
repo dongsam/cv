@@ -4,7 +4,9 @@ My markdown CV, [Link](http://cv.dongsamb.com)
 
 This project forked from [blmoore/md-cv](https://github.com/blmoore/md-cv)
 
-### How to run 
+
+### How to run
+
 
 A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa](https://github.com/elipapa/markdown-cv)
 

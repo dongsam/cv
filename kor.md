@@ -1,6 +1,6 @@
 ---
 layout: kor
-title: 변동삼 이력서
+title: 변동삼 CV 
 ---
 
 # 변동삼 [Dongsam Byun] <a href="http://cv.dongsamb.com/kor">🇰🇷</a> <a href="http://cv.dongsamb.com">🇺🇸</a>
@@ -9,7 +9,7 @@ title: 변동삼 이력서
 
 Blockchain Engineer / Blockchain Technical Advisor
 
-Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backend / Machine Learning 
+Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Go, Python Backend 
 
 
 <!-- <div id="webaddress">
@@ -24,23 +24,21 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backe
 `2018-`
 [__B-Harvest__](https://bharvest.io) 비하베스트, CTO 
 
+-[Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam)  오픈소스 컨트리뷰션, 커스터마이징, 분석
+
+-블록체인 기술 개발 및 컨설팅, 오디팅 ( Cosmos-SDK, Tendermint 및 기반 체인들, [Kava](https://medium.com/@bharvest/kava-cdp-and-auction-module-audit-result-by-b-harvest-97df177924a3), [Terra](https://github.com/terra-project/core/pulls?q=is:pr%20author:dongsam), etc. )
+
+-tendermint [Liquidity Module](https://github.com/tendermint/liquidity) 개발 Cosmos-SDK 기반 AMM(Automated Market Makers)
+
 -[코스모스(Cosmos)](http://cosmos.network) 벨리데이터(DPoS) 노드 시스템 구축, 보안, 운영, 최적화
 
 -Cosmos, Terra, IRIS, Kava, Comdex, Solana, Polkadot, IDEX, etc Validator ( moniker: B-Harvest )
-
--[Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/issues?q=dongsam)  오픈소스 컨트리뷰션, 커스터마이징, 분석
-
--블록체인 기술 개발 및 컨설팅, 오디팅 ( Cosmos-SDK, Tendermint 기반 체인들 )
-
--Cosmos Berlin Hackatom 2019, Honorable Mention, [dDex: decentralized Delegation Exchange](https://github.com/b-harvest/cosmos-sdk/tree/hackatom-berlin-change-delegator)
-
--Cosmos Seoul Hackatom 2019, Speaker, [Database, Statistics, and Data Mining in dPoS Blockchain](https://cosmos.network/events/ha-buidl-2019)
 
 -코스모스 게임 오브 스테이크(GoS) 참여, 상위 순위 유지 (moniker: bharvest)
 
 -토크나이즈 펀드 smart contract 분석, 설계
 
-- Cosmos
+- Cosmos-SDK
 - Tendermint
 - ELK
 - Prometheus
@@ -48,13 +46,12 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Python Backe
 - Solidity
 - Ansible
 - AWS(EC2, VPC, DX)
-- YubiHSM2
 - Golang
 - Rust
 - Python
 
 `2018`
-[__The Language Network__](https://langnet.io), Lead Blockchain Engineer
+[__The Language Network__(아틀라스랩스)](https://langnet.io), Lead Blockchain Engineer
 
 -Smart Contract, Dapp 개발 및 ERC20 Token 발행, ICO 진행
 
@@ -199,7 +196,6 @@ __Automation__
 ## Education
 `2015-18`
 __고려대학교__ 일반대학원 컴퓨터학 수료<br>
-'20 졸업, 전문연구요원 계획
 
 * 빅데이터마이닝 이론 및 실습
 * 빅데이터 텍스트 마이닝
@@ -221,23 +217,28 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 
 ## Contributions [[github]](https://github.com/dongsam)
 
+* cosmos/cosmos-sdk [[github]](https://github.com/cosmos/cosmos-sdk/pulls?q=is:pr author:dongsam )
+* tendermint/tendermint [[github]](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam )
+* tendermint/liquidity [[github]](https://github.com/tendermint/liquidity/pulls?q=is:pr%20author:dongsam )
 * ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
 * ethereum/solidity [[github]](https://github.com/ethereum/solidity/pull/3702)
-* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/pull/996)
-* dongsam/logdig [[github]](https://github.com/dongsam/logdig)
+<!--* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/pull/996) -->
+<!-- *dongsam/logdig [[github]](https://github.com/dongsam/logdig) -->
 * ethereum/web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
 <!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
 * tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/pull/15772)
-* dongsam/ko2vec [[github]](https://github.com/dongsam/ko2vec)
+<!-- *dongsam/ko2vec [[github]](https://github.com/dongsam/ko2vec) -->
 * bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/pull/11291)
 * LanguageNetwork [[github]](https://github.com/languageNetwork)
 * solidity-korea [[github]](https://github.com/solidity-korea)
 * OpenMined [[github]](https://github.com/OpenMined)
-* BurrowCoin [[github]](https://github.com/BurrowCoin)
 * omisego/plasma-mvp [[github]](https://github.com/omisego/plasma-mvp)
-* cosmos/cosmos-sdk [[github]](https://github.com/cosmos/cosmos-sdk/pulls?q=is%3Apr+author%3Adongsam+)
 
 ## Projects
+
+`2020` **Liquidity: Tendermint AMM Liquidity Module of Cosmos-SDK**  <a href="https://github.com/b-harvest/Liquidity-Module-For-the-Hub"><i class="fa fa-link"></i></a> [[github]](https://github.com/tendermint/liquidity)
+
+`2019` **Four-Pillars-Project: better validator operation of Tendermint/Cosmos-SDK** [[github]](https://github.com/b-harvest/Four-Pillars-Project)
 
 `2018` **DAIPO: Decentralized Autonomous Initial Public(Person) Offering**  <a href="http://daipo.org"><i class="fa fa-link"></i></a> [[github]](https://github.com/daipo-org)
 
@@ -288,6 +289,10 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 ## Activities
 
+`2020` Cosmos Community Contributor Grants <a href="https://blog.cosmos.network/cosmos-community-contributor-grants-75e24532c261"><i class="fa fa-link"></i></a>
+
+`2019` Cosmos Berlin Hackatom 2019, Honorable Mention, dDex: decentralized Delegation Exchange <a href="https://hackatom-berlin.cosmos.network/"><i class="fa fa-link"></i></a>
+
 `2018` 
 블로커톤(Blockchain Hackathon) 기술 멘토링 및 심사, 패스트캠퍼스 <a href="http://www.fastcampus.co.kr/hton_blockchain_2018/"><i class="fa fa-link"></i></a>
 
@@ -312,6 +317,8 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 
 ## Presentations
+
+`2019` Database, Statistics, and Data Mining in dPoS Blockchain, Cosmos Seoul Hackatom 2019  <a href="https://www.buidl.asia/hackatom"><i class="fa fa-link"></i></a>
 
 `2018` Trends and View about Blockchain Develpment, Web World Contents Service Conference 2018 <a href="http://www.bizdeli.com/webworldcs/program.asp"><i class="fa fa-link"></i></a>
 
@@ -435,6 +442,7 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 ## Technical skills
 
+- Go
 - Python
 - Flask
 - Django
