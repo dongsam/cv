@@ -7,9 +7,9 @@ title: 변동삼 CV
 
 <!-- <i class="fa fa-link"></i> -->
 
-Blockchain Engineer / Blockchain Technical Advisor
+Blockchain Engineer
 
-Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Go, Python Backend 
+Cosmos-SDK / Tendermint / Ethereum / Solidity / Smart Contract / Go, Python Backend 
 
 
 <!-- <div id="webaddress">
@@ -24,31 +24,28 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Go, Python B
 `2018-`
 [__B-Harvest__](https://bharvest.io) 비하베스트, CTO 
 
+-Tendermint [Liquidity Module](https://github.com/tendermint/liquidity) 개발 Cosmos-SDK 기반 AMM(Automated Market Makers)
+
 -[Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam)  오픈소스 컨트리뷰션, 커스터마이징, 분석
 
 -블록체인 기술 개발 및 컨설팅, 오디팅 ( Cosmos-SDK, Tendermint 및 기반 체인들, [Kava](https://medium.com/@bharvest/kava-cdp-and-auction-module-audit-result-by-b-harvest-97df177924a3), [Terra](https://github.com/terra-project/core/pulls?q=is:pr%20author:dongsam), etc. )
 
--tendermint [Liquidity Module](https://github.com/tendermint/liquidity) 개발 Cosmos-SDK 기반 AMM(Automated Market Makers)
-
 -[코스모스(Cosmos)](http://cosmos.network) 벨리데이터(DPoS) 노드 시스템 구축, 보안, 운영, 최적화
 
--Cosmos, Terra, IRIS, Kava, Comdex, Solana, Polkadot, IDEX, etc Validator ( moniker: B-Harvest )
+-Cosmos, Terra, IRIS, Kava, Chainlink, Secret Network, Band Protocoal, etc Validator ( moniker: B-Harvest )
 
 -코스모스 게임 오브 스테이크(GoS) 참여, 상위 순위 유지 (moniker: bharvest)
+
+-보안 취약점 제보( Gaia, Cosmos-SDK, Cosmos-Hub )
 
 -토크나이즈 펀드 smart contract 분석, 설계
 
 - Cosmos-SDK
 - Tendermint
-- ELK
-- Prometheus
 - Ethereum
 - Solidity
-- Ansible
 - AWS(EC2, VPC, DX)
 - Golang
-- Rust
-- Python
 
 `2018`
 [__The Language Network__(아틀라스랩스)](https://langnet.io), Lead Blockchain Engineer
@@ -236,7 +233,7 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 
 ## Projects
 
-`2020` **Liquidity: Tendermint AMM Liquidity Module of Cosmos-SDK**  <a href="https://github.com/b-harvest/Liquidity-Module-For-the-Hub"><i class="fa fa-link"></i></a> [[github]](https://github.com/tendermint/liquidity)
+`2020` **Liquidity: Tendermint AMM Liquidity Module of Cosmos-SDK**  <a href="https://swap.bharvest.io/"><i class="fa fa-link"></i></a> [[github]](https://github.com/tendermint/liquidity)
 
 `2019` **Four-Pillars-Project: better validator operation of Tendermint/Cosmos-SDK** [[github]](https://github.com/b-harvest/Four-Pillars-Project)
 
@@ -288,6 +285,8 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 
 ## Activities
+
+`2021` Reporting critical security vulnerability ( Gaia, Cosmos-SDK, Cosmos-Hub ) <a href="https://hackerone.com/tendermint"><i class="fa fa-link"></i></a>
 
 `2020` Cosmos Community Contributor Grants <a href="https://blog.cosmos.network/cosmos-community-contributor-grants-75e24532c261"><i class="fa fa-link"></i></a>
 
@@ -390,8 +389,11 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 `2010` 오픈소스 소프트웨어 소개 글 공모전, 2위 [한국 레드햇]
 
+## Publications, Patents
 
-## Patents
+`2021` Proposal for Cosmos based Automated Market Maker, Liquidity Module
+
+`2014` 빅데이터 분석을 통한 피자 판매량 예측 / Pizza Sales Prediction by Using Big Data Analysis  / 한국정보처리학회 2014 추계 학술대회 VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
 
 `2014` 데이터 크롤링 및 관리자 입력에 기반한 판매 예측 자동화 장치 _(공개, 1020140157122
 , 1020140139466)_
@@ -407,6 +409,8 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 <!--
 
 ## Publications
+
+`2021` Proposal for Cosmos based Automated Market Maker, Liquidity Module
 
 `2014` 빅데이터 분석을 통한 피자 판매량 예측 / Pizza Sales Prediction by Using Big Data Analysis  / 한국정보처리학회 2014 추계 학술대회 VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
 

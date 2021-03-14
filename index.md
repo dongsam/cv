@@ -6,9 +6,9 @@ title: Dongsam Byun's CV
 # Dongsam Byun [변동삼] <a href="http://cv.dongsamb.com/kor">🇰🇷</a> <a href="http://cv.dongsamb.com">🇺🇸</a>
 <!-- <i class="fa fa-link"></i> -->
 
-Blockchain Engineer / Blockchain Technical Advisor
+Blockchain Engineer
 
-Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Go, Python Backend
+Cosmos-SDK / Tendermint / Ethereum / Solidity / Smart Contract / Go, Python Backend
 
 
 <!-- <div id="webaddress">
@@ -23,31 +23,28 @@ Cosmos / Tendermint / Ethereum / Solidity / Smart Contract / DApp / Go, Python B
 `2018-`
 [__B-Harvest__](https://bharvest.io), CTO 
 
+-Developing tendermint [Liquidity Module](https://github.com/tendermint/liquidity) of the Cosmos-SDK, which serves AMM(Automated Market Makers) on Cosmos Hub
+
 -Contributing [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam) open source and Customizing for analysis, validation
 
 -Development and Consulting, Auditing of Blockchains Based on Cosmos-SDK and Tendermint ([Kava](https://medium.com/@bharvest/kava-cdp-and-auction-module-audit-result-by-b-harvest-97df177924a3), [Terra](https://github.com/terra-project/core/pulls?q=is:pr%20author:dongsam), etc.)
 
--Developing tendermint [Liquidity Module](https://github.com/tendermint/liquidity) of the Cosmos-SDK, which serves AMM(Automated Market Makers)
-
 -Building, managing and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
 
--Cosmos, Terra, IRIS, Kava, Comdex, Solana, Polkadot, IDEX, etc Validator ( moniker: B-Harvest )
+-Cosmos, Terra, IRIS, Kava, Chainlink, Secret Network, Band Protocoal, etc Validator ( moniker: B-Harvest )
 
 -Ranked Top Tier in Cosmos Game of Stakes (moniker: bharvest)
+
+-Reporting critical security vulnerability ( Gaia, Cosmos-SDK, Cosmos-Hub )
 
 -Designing Tokenized Fund using Smart Contracts
 
 - Cosmos-SDK
 - Tendermint
-- ELK
-- Prometheus
 - Ethereum
 - Solidity
-- Ansible
 - AWS(EC2, VPC, DX)
 - Golang
-- Rust
-- Python
 
 `2018`
 [__The Language Network__(Atlas Labs)](https://langnet.io), Lead Blockchain Engineer
@@ -245,7 +242,7 @@ AI Lab (RA, TA)
 
 ## Projects
 
-`2020` **Liquidity: Tendermint AMM Liquidity Module of Cosmos-SDK**  <a href="https://github.com/b-harvest/Liquidity-Module-For-the-Hub"><i class="fa fa-link"></i></a> [[github]](https://github.com/tendermint/liquidity)
+`2020` **Liquidity: Tendermint AMM Liquidity Module of Cosmos-SDK**  <a href="https://swap.bharvest.io/"><i class="fa fa-link"></i></a> [[github]](https://github.com/tendermint/liquidity)
 
 `2019` **Four-Pillars-Project: better validator operation of Tendermint/Cosmos-SDK**  [[github]](https://github.com/b-harvest/Four-Pillars-Project)
 
@@ -297,6 +294,8 @@ Manufacture of embedded security equipment using Raspberry-Pie [[youtube]](https
 
 
 ## Activities
+
+`2021` Reporting critical security vulnerability ( Gaia, Cosmos-SDK, Cosmos-Hub ) <a href="https://hackerone.com/tendermint"><i class="fa fa-link"></i></a>
 
 `2020` Cosmos Community Contributor Grants <a href="https://blog.cosmos.network/cosmos-community-contributor-grants-75e24532c261"><i class="fa fa-link"></i></a>
 
@@ -396,8 +395,11 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 `2010` Open source software introduction essay contest, 2nd place [redhat Korea]
 
+## Publications, Patents
 
-## Patents
+`2021` Proposal for Cosmos based Automated Market Maker, Liquidity Module
+
+`2014` Pizza Sales Prediction by Using Big Data Analysis  / KIPS 2014 Fall Conference VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
 
 `2014` AUTOMATIC SALES FORECASTING SYSTEM BASED ON DATA CRAWLING AND MANAGER'S INPUT _(Publication, 1020140157122)_
 
@@ -410,6 +412,8 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 <!--
 
 ## Publications
+
+`2021` Proposal for Cosmos based Automated Market Maker, Liquidity Module
 
 `2014` Pizza Sales Prediction by Using Big Data Analysis  / KIPS 2014 Fall Conference VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
 
