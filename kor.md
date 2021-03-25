@@ -9,8 +9,7 @@ title: 변동삼 CV
 
 Blockchain Engineer
 
-Cosmos-SDK / Tendermint / Ethereum / Solidity / Smart Contract / Go, Python Backend 
-
+Cosmos-SDK / Tendermint / Ethereum / Go
 
 <!-- <div id="webaddress">
 |
@@ -59,13 +58,8 @@ Cosmos-SDK / Tendermint / Ethereum / Solidity / Smart Contract / Go, Python Back
 * Ethereum
 * Geth
 * Web3.py
-* Web3.js
 * Solidity
 * IPFS
-* Truffle
-* Python
-* Flask
-* AWS
 * Oraclize
 
 
@@ -101,19 +95,14 @@ __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine 
 -회사 뉴스 크롤링, 비관련 뉴스 필터링 
 <!-- <a href="https://www.wanted.co.kr/news"><i class="fa fa-link"></i></a> -->
 
-* Python
 * Flask
-* AWS(EC2, ELB, RDS, CF, S3, Lambda)
+* AWS
 * Redis
-* Jupyter
 * gensim
-* KoNLPy
-* Numpy
 * TensorFlow
 * scikit-learn
 * Celery
 * SQLAlchemy
-* Mysql
 * Elasticsearch
 
 
@@ -130,12 +119,8 @@ __[씨유펀드](https://web.archive.org/web/20160724045309/https://cufund.co.kr
 
 -AWS 시스템 구축 및 관리
 
-* Python
 * Django
-* AWS (EB, RDS, Lambda, SQS, CF, S3)
-* Git
-* Slack
-* Trello
+* AWS
 * PostgreSQL
 
 
@@ -148,18 +133,12 @@ __데일리금융그룹(Nomad Connection)__, 연구원(DataLabs)
 
 -주식 투자를 위한 뉴스 텍스트 및 데이터 분석 연구
 
-* Python
 * Flask
-* AWS(EB, Lambda, SQS, S3)
-* Javascript
+* AWS
 * Spark
 * Zeppelin
 * Gensim
-* Vagrant
-* Git
-* KoNLPy
 * MongoDB
-* RESTful
 
 
 `2014-15`
@@ -173,7 +152,6 @@ __Web, Data Crawler Development__
 * Google Image
 * Naver News
 * Naver Finance [[gist]](https://gist.github.com/dongsam/55a0f00d4eab9185c55a)
-* Daum Cafe Posts
 * 총선 후보자 데이터
 * ETC Apps, Shops ...
 
@@ -219,12 +197,8 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 * tendermint/liquidity [[github]](https://github.com/tendermint/liquidity/pulls?q=is:pr%20author:dongsam )
 * ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
 * ethereum/solidity [[github]](https://github.com/ethereum/solidity/pull/3702)
-<!--* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/pull/996) -->
-<!-- *dongsam/logdig [[github]](https://github.com/dongsam/logdig) -->
 * ethereum/web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
-<!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
 * tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/pull/15772)
-<!-- *dongsam/ko2vec [[github]](https://github.com/dongsam/ko2vec) -->
 * bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/pull/11291)
 * LanguageNetwork [[github]](https://github.com/languageNetwork)
 * solidity-korea [[github]](https://github.com/solidity-korea)
@@ -236,10 +210,6 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 `2020` **Liquidity: Tendermint AMM Liquidity Module of Cosmos-SDK**  <a href="https://swap.bharvest.io/"><i class="fa fa-link"></i></a> [[github]](https://github.com/tendermint/liquidity)
 
 `2019` **Four-Pillars-Project: better validator operation of Tendermint/Cosmos-SDK** [[github]](https://github.com/b-harvest/Four-Pillars-Project)
-
-`2018` **DAIPO: Decentralized Autonomous Initial Public(Person) Offering**  <a href="http://daipo.org"><i class="fa fa-link"></i></a> [[github]](https://github.com/daipo-org)
-
-`2018` **BurrowCoin: Ethereum Deposit System with Token Economy**  <a href="http://burrowcoin.com/"><i class="fa fa-link"></i></a> [[github]](https://github.com/BurrowCoin)
 
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
 
@@ -350,30 +320,6 @@ Software Maestro 하계, 동계 집체교육
 
 
 
-<!-- ## Freelancer Projects
-
-`Crawler` 
-
-* Facebook Page posts, comments
-* Amazone products,reviews
-* Instagram Posts, tags
-* Google Image
-* Naver News
-* Naver Finance [[gist]](https://gist.github.com/dongsam/55a0f00d4eab9185c55a)
-* Daum Cafe Posts
-* 총선 후보자 데이터
-* ETC Apps, Shops ...
-
-`Automation` 　
-
-SEO 를 위한 Browser Automation [ Python, Selenium ]
-
-법무법인 업무 자동화 [ Python, Flask ]
-
-Instagram Image Upload Automation [ Python ]
-
-Facebook Page Posting Automation [ Python, GraphAPI ] -->
-
 
 ## Prizes
 
@@ -406,16 +352,6 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 
 
-<!--
-
-## Publications
-
-`2021` Proposal for Cosmos based Automated Market Maker, Liquidity Module
-
-`2014` 빅데이터 분석을 통한 피자 판매량 예측 / Pizza Sales Prediction by Using Big Data Analysis  / 한국정보처리학회 2014 추계 학술대회 VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
-
--->
-
 
 ## Certifications
 
@@ -431,44 +367,9 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a><br />
-*  <i class="fa fa-facebook"></i> <a href="http://facebook.com/dongsam">Facebook</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/dongsam">Github</a><br />
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/dongsamb">@dongsamb</a><br />
 *  <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/dongsam">Linkedin</a><br />
-*  <i class="fa fa-youtube"></i> <a href="https://www.youtube.com/dongsamb">Youtube</a><br />
 *  <i class="fa fa-bookmark"></i> <a href="http://cv.dongsamb.com">CV</a><br />
-* <i class="fa fa-link"></i> <a href="https://steemit.com/@dongsamb">Steem</a><br />
 
 
-
-
-<!-- 
-
-## Technical skills
-
-- Go
-- Python
-- Flask
-- Django
-- Web Crawling
-- AWS
-- Git
-- MongoDB
-- Mysql / PostgreSQL
-- Celery
-- Gensim
-- Zipline
-- Spark
-- Selenium
-- TensorFlow
-- Redis
-- SQLAlchemy
-- scikit-learn
-- Jupyter
-- NLP(Korean, English)
-- DevOps
-- Agile
-- System Trading(backtest)
-- ElasticSearch
-- Beautiful Soup
-	-->

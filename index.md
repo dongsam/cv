@@ -1,15 +1,15 @@
 ---
 layout: eng
-title: Dongsam Byun's CV 
+title: Dongsam Byun's CV
 ---
 
-# Dongsam Byun [변동삼] <a href="http://cv.dongsamb.com/kor">🇰🇷</a> <a href="http://cv.dongsamb.com">🇺🇸</a>
+# Dongsam Byun [변동삼]
+
 <!-- <i class="fa fa-link"></i> -->
 
 Blockchain Engineer
 
-Cosmos-SDK / Tendermint / Ethereum / Solidity / Smart Contract / Go, Python Backend
-
+Cosmos-SDK / Tendermint / Ethereum / Go
 
 <!-- <div id="webaddress">
 |
@@ -17,6 +17,14 @@ Cosmos-SDK / Tendermint / Ethereum / Solidity / Smart Contract / Go, Python Back
 |
 </div> -->
 <i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <a href="mailto:dongsamb@bharvest.io">dongsamb@bharvest.io</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> <br />
+
+
+
+## Profile
+
+Started career with backend development and security, working for FinTech companies with an interest in combinations of IT and finance, developing p2p loan service, researching data, and seeing the blockchain with the possibility of smart contracts. Since then, conducted various development projects and research related to Ethereum, and I have been attracted to the structure of Tendermint / Cosmos-SDK / IBC, so I have been doing research and development since 2018 at B-Harvest
+
+
 
 ## Experience
 
@@ -58,13 +66,8 @@ Cosmos-SDK / Tendermint / Ethereum / Solidity / Smart Contract / Go, Python Back
 - Ethereum
 - Geth
 - Web3.py
-- Web3.js
 - Solidity
 - IPFS
-- Truffle
-- Python
-- Flask
-- AWS
 - Oraclize
 
 
@@ -100,19 +103,14 @@ __[원티드 (wanted.co.kr)](https://www.wanted.co.kr)__ Data Analysis, Machine 
 -Developed auto Crawling system for company news with noise filtering
 <!-- <a href="https://www.wanted.co.kr/news"><i class="fa fa-link"></i></a> -->
 
-* Python
 * Flask
-* AWS(EC2, ELB, RDS, CF, S3, Lambda)
+* AWS
 * Redis
-* Jupyter
 * gensim
-* KoNLPy
-* Numpy
 * TensorFlow
 * scikit-learn
 * Celery
 * SQLAlchemy
-* Mysql
 * Elasticsearch
 
 
@@ -129,12 +127,8 @@ __[CUfund](https://web.archive.org/web/20160724045309/https://cufund.co.kr/)__ B
 
 -Built infrastructure and DevOps using AWS 
 
-* Python
 * Django
-* AWS (EB, RDS, Lambda, SQS, CF, S3)
-* Git
-* Slack
-* Trello
+* AWS
 * PostgreSQL
 
 
@@ -147,18 +141,12 @@ __DAYLI Financial Group(Nomad Connection)__, Researcher(DataLabs)
 
 -Did research and analyze news text for stock investment ( Word2Vec, Doc2Vec )
 
-* Python
 * Flask
-* AWS(EB, Lambda, SQS, S3)
-* Javascript
+* AWS
 * Spark
 * Zeppelin
 * Gensim
-* Vagrant
-* Git
-* KoNLPy
 * MongoDB
-* RESTful
 
 
 `2014-15`
@@ -172,7 +160,6 @@ __Web, Data Crawler Development__
 * Google Image
 * Naver News
 * Naver Finance [[gist]](https://gist.github.com/dongsam/55a0f00d4eab9185c55a)
-* Daum Cafe Posts
 * Election candidate data
 * ETC Apps, Shops ...
 
@@ -202,18 +189,6 @@ __Korea University__, M.S. in Computer Science and Engineering<br>
 * Research in system security
 * Venture capital investments
 
-<!-- 
-* BIGDATA MINING PRACTICE
-* TEXT MINING FOR BIGDATA
-* BIGDATA PLANNING AND ANALYSIS
-* ADVANCED INFORMATION RETRIEVAL
-* SOCIAL NETWORK SECURITY
-* RESEARCH IN SYSTEM SECURITY
-* VENTURE CAPITAL INVESTMENTS
-
-
--->
-
 `2011-15`
 __Dongguk University__, B.S. in Computer Science and Engineering<br>
 
@@ -228,12 +203,8 @@ AI Lab (RA, TA)
 * tendermint/liquidity [[github]](https://github.com/tendermint/liquidity/pulls?q=is:pr%20author:dongsam )
 * ethereum/pyethereum [[github]](https://github.com/ethereum/pyethereum/commits?author=dongsam)
 * ethereum/solidity [[github]](https://github.com/ethereum/solidity/pull/3702)
-<!--* raiden-network/raiden [[github]](https://github.com/raiden-network/raiden/pull/996) -->
-<!-- *dongsam/logdig [[github]](https://github.com/dongsam/logdig) -->
 * ethereum/web3.py [[github]](https://github.com/ethereum/web3.py/pull/562)
-<!-- * ethereum/wiki [[github]](https://github.com/ethereum/wiki) -->
 * tensorflow/tensorflow [[github]](https://github.com/tensorflow/tensorflow/pull/15772)
-<!-- *dongsam/ko2vec [[github]](https://github.com/dongsam/ko2vec) -->
 * bitcoin/bitcoin [[github]](https://github.com/bitcoin/bitcoin/pull/11291)
 * LanguageNetwork [[github]](https://github.com/languageNetwork)
 * solidity-korea [[github]](https://github.com/solidity-korea)
@@ -245,10 +216,6 @@ AI Lab (RA, TA)
 `2020` **Liquidity: Tendermint AMM Liquidity Module of Cosmos-SDK**  <a href="https://swap.bharvest.io/"><i class="fa fa-link"></i></a> [[github]](https://github.com/tendermint/liquidity)
 
 `2019` **Four-Pillars-Project: better validator operation of Tendermint/Cosmos-SDK**  [[github]](https://github.com/b-harvest/Four-Pillars-Project)
-
-`2018` **DAIPO: Decentralized Autonomous Initial Public(Person) Offering**  <a href="http://daipo.org"><i class="fa fa-link"></i></a> [[github]](https://github.com/daipo-org)
-
-`2018` **BurrowCoin: Ethereum Deposit System with Token Economy**  <a href="http://burrowcoin.com/"><i class="fa fa-link"></i></a> [[github]](https://github.com/BurrowCoin)
 
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
 
@@ -280,18 +247,6 @@ Proeject Manager, Python, XingAPI(Etrade)
 Make payment by QRcode scan with sales information, By encrypting the user authentication and credit information required for payment and storing it on a personal smartphone rather than on a server
 
 Proeject Manager, Payment, Verification Server QRcode Manage Server, POS, Web/App Client
-
-`2012-14` __ETC__
-
-Ubiquitous smart home control system through voice recognition and web-based application [[youtube]](https://youtu.be/tyFxKY1ftc8) <a href="https://www.slideshare.net/dongsamb/ss-63243129"><i class="fa fa-link"></i></a>
-
-Lecture assistant software with hand motion motion sensor LeapMotion [[youtube]](https://youtu.be/poH5JISwBBw)
-
-Alarm and action execution system by proximity approach detection [[youtube]](https://youtu.be/c1-YDcWXTZo)
-
-Manufacture of embedded security equipment using Raspberry-Pie [[youtube]](https://youtu.be/lHfWZl-cTEw)
-
-
 
 ## Activities
 
@@ -355,32 +310,6 @@ Cyber Security Elite Training program BoB education and training
 <a href="http://edition.cnn.com/2013/01/14/world/asia/south-korea-hackers/index.html"><i class="fa fa-link"></i></a>
 
 
-
-<!-- ## Freelancer Projects
-
-`Crawler` 
-
-* Facebook Page posts, comments
-* Amazone products,reviews
-* Instagram Posts, tags
-* Google Image
-* Naver News
-* Naver Finance [[gist]](https://gist.github.com/dongsam/55a0f00d4eab9185c55a)
-* Daum Cafe Posts
-* 총선 후보자 데이터
-* ETC Apps, Shops ...
-
-`Automation` 　
-
-SEO 를 위한 Browser Automation [ Python, Selenium ]
-
-법무법인 업무 자동화 [ Python, Flask ]
-
-Instagram Image Upload Automation [ Python ]
-
-Facebook Page Posting Automation [ Python, GraphAPI ] -->
-
-
 ## Prizes
 
 `2014` Computer Engineering General Design Project, Grand Prize [Dongguk Univ.]
@@ -409,16 +338,6 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 
 `2012` SECURITY PAYMENT SYSTEM BASED ON A CODE SCAN THROUGH A TERMINAL STORING ENCODED AUTHENTICATION INFORMATION AND A METHOD THEREOF FOR SAFELY PERFORMING AUTHENTICATION AND PAYMENT _(Publication, 1020120062929)_
 
-<!--
-
-## Publications
-
-`2021` Proposal for Cosmos based Automated Market Maker, Liquidity Module
-
-`2014` Pizza Sales Prediction by Using Big Data Analysis  / KIPS 2014 Fall Conference VOL 21 NO. 02 PP. 0890 ~ 0893 (2014. 11)
-
--->
-
 ## Certifications
 
 `2014` Engineer Information Processing (Human Resources Development Service Of Korea)
@@ -433,44 +352,7 @@ Facebook Page Posting Automation [ Python, GraphAPI ] -->
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a><br />
-*  <i class="fa fa-facebook"></i> <a href="http://facebook.com/dongsam">Facebook</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/dongsam">Github</a><br />
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/dongsamb">@dongsamb</a><br />
 *  <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/dongsam">Linkedin</a><br />
-*  <i class="fa fa-youtube"></i> <a href="https://www.youtube.com/dongsamb">Youtube</a><br />
 *  <i class="fa fa-bookmark"></i> <a href="http://cv.dongsamb.com">CV</a><br />
-* <i class="fa fa-link"></i> <a href="https://steemit.com/@dongsamb">Steem</a><br />
-
-
-
-
-<!-- 
-
-## Technical skills
-
-- Go
-- Python
-- Flask
-- Django
-- Web Crawling
-- AWS
-- Git
-- MongoDB
-- Mysql / PostgreSQL
-- Celery
-- Gensim
-- Zipline
-- Spark
-- Selenium
-- TensorFlow
-- Redis
-- SQLAlchemy
-- scikit-learn
-- Jupyter
-- NLP(Korean, English)
-- DevOps
-- Agile
-- System Trading(backtest)
-- ElasticSearch
-- Beautiful Soup
-	-->
