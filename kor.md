@@ -23,7 +23,7 @@ Cosmos-SDK / Tendermint / Ethereum / Go
 `2018-`
 [__B-Harvest__](https://bharvest.io) 비하베스트, CTO 
 
--Tendermint [Liquidity Module](https://github.com/tendermint/liquidity) 개발 Cosmos-SDK 기반 AMM(Automated Market Makers)
+-Tendermint [Liquidity Module](https://github.com/tendermint/liquidity) 개발 Cosmos-SDK 기반 AMM(Automated Market Makers), Gravity-DEX
 
 -[Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam)  오픈소스 컨트리뷰션, 커스터마이징, 분석
 
@@ -31,7 +31,7 @@ Cosmos-SDK / Tendermint / Ethereum / Go
 
 -[코스모스(Cosmos)](http://cosmos.network) 벨리데이터(DPoS) 노드 시스템 구축, 보안, 운영, 최적화
 
--Cosmos, Terra, IRIS, Kava, Chainlink, Secret Network, Band Protocoal, etc Validator ( moniker: B-Harvest )
+-Cosmos, Terra, IRIS, Kava, Chainlink, Secret Network, Band Protocol, etc Validator ( moniker: B-Harvest )
 
 -코스모스 게임 오브 스테이크(GoS) 참여, 상위 순위 유지 (moniker: bharvest)
 
@@ -147,7 +147,7 @@ __Self-employed__, Freelancer
 __Web, Data Crawler Development__
 
 * Facebook Page posts, comments
-* Amazone products,reviews
+* Amazone products, reviews
 * Instagram Posts, tags
 * Google Image
 * Naver News
@@ -213,9 +213,9 @@ __동국대학교__ 서울캠퍼스 컴퓨터공학과 졸업<br>
 
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
 
-Quantitative Aanlysis, Text Mining, Open Source Analysis, Machine Learning Approach <a href="https://drive.google.com/file/d/0B6gSurLEKa0aTHlya3VyN0pFejA/view"><i class="fa fa-link"></i></a>
+Quantitative Analysis , Text Mining, Open-Source Analysis, Machine Learning Approach <a href="https://drive.google.com/file/d/0B6gSurLEKa0aTHlya3VyN0pFejA/view"><i class="fa fa-link"></i></a>
 
-Sentimet Aanlysis about Chatting data using doc2vec [[github]](https://gist.github.com/dongsam/5284ec14756551beb2c79076e86db210)
+Sentiment Analysis about Chatting data using doc2vec [[github]](https://gist.github.com/dongsam/5284ec14756551beb2c79076e86db210)
 
 
 `2015` __Logdig: Web/App Big Log Analysis Framework__
@@ -289,7 +289,7 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 `2019` Database, Statistics, and Data Mining in dPoS Blockchain, Cosmos Seoul Hackatom 2019  <a href="https://www.buidl.asia/hackatom"><i class="fa fa-link"></i></a>
 
-`2018` Trends and View about Blockchain Develpment, Web World Contents Service Conference 2018 <a href="http://www.bizdeli.com/webworldcs/program.asp"><i class="fa fa-link"></i></a>
+`2018` Trends and View about Blockchain Development, Web World Contents Service Conference 2018 <a href="http://www.bizdeli.com/webworldcs/program.asp"><i class="fa fa-link"></i></a>
 
 `2017` 이더리움 합의 알고리즘과 마이닝, 이더리움 연구회(이연), 구글 캠퍼스 서울 <a href="https://steemit.com/kr/@dongsamb/ethereum-pow-ethash"><i class="fa fa-link"></i></a>
 
@@ -307,7 +307,7 @@ QRcode 생성 및 등록서버, 결제 및 검증서버, POS기 및 웹 Client, 
 
 
 
-## Trainings
+## Training
 
 `2014`
 실리콘밸리, Google, MS, 스탠퍼드, HP 등 해외연수 및 탐방

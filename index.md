@@ -31,15 +31,15 @@ Started career with backend development and security, working for FinTech compan
 `2018-`
 [__B-Harvest__](https://bharvest.io), CTO 
 
--Developing tendermint [Liquidity Module](https://github.com/tendermint/liquidity) of the Cosmos-SDK, which serves AMM(Automated Market Makers) on Cosmos Hub
+-Developing tendermint [Liquidity Module](https://github.com/tendermint/liquidity) of the Cosmos-SDK, which serves AMM(Automated Market Makers) on Cosmos Hub ( Gravity-DEX )
 
--Contributing [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam) open source and Customizing for analysis, validation
+-Contributing [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/issues?q=dongsam), [Tendermint](https://github.com/tendermint/tendermint/pulls?q=is:pr author:dongsam) open-source and Customizing for analysis, validation
 
 -Development and Consulting, Auditing of Blockchains Based on Cosmos-SDK and Tendermint ([Kava](https://medium.com/@bharvest/kava-cdp-and-auction-module-audit-result-by-b-harvest-97df177924a3), [Terra](https://github.com/terra-project/core/pulls?q=is:pr%20author:dongsam), etc.)
 
--Building, managing and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
+-Building, managing, and optimizing for [Cosmos](http://cosmos.network) validator(DPoS) node system, Reliability Engineering
 
--Cosmos, Terra, IRIS, Kava, Chainlink, Secret Network, Band Protocoal, etc Validator ( moniker: B-Harvest )
+-Cosmos, Terra, IRIS, Kava, Chainlink, Secret Network, Band Protocol, etc Validator ( moniker: B-Harvest )
 
 -Ranked Top Tier in Cosmos Game of Stakes (moniker: bharvest)
 
@@ -57,7 +57,7 @@ Started career with backend development and security, working for FinTech compan
 `2018`
 [__The Language Network__(Atlas Labs)](https://langnet.io), Lead Blockchain Engineer
 
--Developed Smart Contract, Dapp for publish ERC20 Token and ICO 
+-Developed Smart Contract, Dapp for publishing ERC20 Token and ICO 
 
 -Implemented Blockchain Backend Server using Geth and web3.py
 
@@ -75,7 +75,7 @@ Started career with backend development and security, working for FinTech compan
 `2017-`
 __Self-employed__, Freelancer Blockchain Engineer, Advisor, Lecturer, Author
 
--Advise for ICO and Blockchain Projects
+-Advice for ICO and Blockchain Projects
 
 -Blockchain Advisory Board Member, IIB Council  <a href="https://www.iibcouncil.org/advisory-board.html#tab8"><i class="fa fa-link"></i></a>
 
@@ -155,7 +155,7 @@ __Self-employed__, Freelancer
 __Web, Data Crawler Development__
 
 * Facebook Page posts, comments
-* Amazone products,reviews
+* Amazone products, reviews
 * Instagram Posts, tags
 * Google Image
 * Naver News
@@ -219,9 +219,9 @@ AI Lab (RA, TA)
 
 `2017` __Coin-Trends: CryptoCurrency Analysis Using Text Mining and Machine Learning__ [[github]](https://github.com/dongsam/CryptoCurrency-Analysis)
 
-Quantitative Aanlysis, Text Mining, Open Source Analysis, Machine Learning Approach <a href="https://drive.google.com/file/d/0B6gSurLEKa0aTHlya3VyN0pFejA/view"><i class="fa fa-link"></i></a>
+Quantitative Analysis, Text Mining, Open-Source Analysis, Machine Learning Approach <a href="https://drive.google.com/file/d/0B6gSurLEKa0aTHlya3VyN0pFejA/view"><i class="fa fa-link"></i></a>
 
-Sentimet Aanlysis about Chatting data using doc2vec [[github]](https://gist.github.com/dongsam/5284ec14756551beb2c79076e86db210)
+Sentiment Analysis about Chatting data using doc2vec [[github]](https://gist.github.com/dongsam/5284ec14756551beb2c79076e86db210)
 
 
 `2015` __Logdig: Web/App Big Log Analysis Framework__ [[github]](https://github.com/dongsam/logdig)
@@ -232,21 +232,21 @@ Flask RESTful Server, Spark, Zepplien Dashboard
 
 `2014` __Sales forecast system through big data analysis__ [[youtube]](https://www.youtube.com/watch?v=zOX6YVExTfg) <a href="https://www.slideshare.net/dongsamb/ss-63232399"><i class="fa fa-link"></i></a>
 
-Forecasts future sales volume by analyzing 10-year sales data on POS, online, and phone order share in the food service industry and external variables such as weather, news, weblog, and marketing information
+Forecasts future sales volume by analyzing 10-year sales data on POS, online, and phone order share in the foodservice industry and external variables such as weather, news, weblog, and marketing information
 
-Data ETL using Python, Pandas and Machine Learning with Weka, Jython
+Data ETL using Python, Pandas, and Machine Learning with Weka, Jython
 
 `2013` __System Trading by New Opinion Mining__ [[youtube]](https://youtu.be/1RQs_1gU19w) <a href="https://www.slideshare.net/dongsamb/ss-86697469"><i class="fa fa-link"></i></a>
 
 Signal generation through real-time news crawling and positive, negative opinion mining
 
-Proeject Manager, Python, XingAPI(Etrade)
+Project Manager, Python, XingAPI(Etrade)
 
 `2012` __Secure payment system based on QRcode scan__ [[youtube]](https://youtu.be/_MoKVDGuGe8) <a href="https://www.slideshare.net/dongsamb/qr-63241153"><i class="fa fa-link"></i></a>
 
 Make payment by QRcode scan with sales information, By encrypting the user authentication and credit information required for payment and storing it on a personal smartphone rather than on a server
 
-Proeject Manager, Payment, Verification Server QRcode Manage Server, POS, Web/App Client
+Project Manager, Payment, Verification Server QRcode Manage Server, POS, Web/App Client
 
 ## Activities
 
@@ -263,7 +263,7 @@ Technical Mentoring, Judging for Blockathon ( Blockchain Hackathon ), Fastcampus
 Korea University CCS Lab(Computer & Communication Security Laboratory) Full-Time
 
 `2014-16`
-public-private joint investigation team for cyber security, [ Korea Ministry of Science and ICT ]
+public-private joint investigation team for cybersecurity, [ Korea Ministry of Science and ICT ]
 
 `2014` Dongguk University AI Lab TA, RA 
 
@@ -279,7 +279,7 @@ public-private joint investigation team for cyber security, [ Korea Ministry of 
 
 `2019` Database, Statistics, and Data Mining in dPoS Blockchain, Cosmos Seoul Hackatom 2019  <a href="https://www.buidl.asia/hackatom"><i class="fa fa-link"></i></a>
 
-`2018` Trends and View about Blockchain Develpment, Web World Contents Service Conference 2018 <a href="http://www.bizdeli.com/webworldcs/program.asp"><i class="fa fa-link"></i></a>
+`2018` Trends and View about Blockchain Development, Web World Contents Service Conference 2018 <a href="http://www.bizdeli.com/webworldcs/program.asp"><i class="fa fa-link"></i></a>
 
 `2017` Consensus Algorithm of Ethereum and Mining Flow, Korea Ethereum Research Group, Google Campus Seoul<a href="https://steemit.com/kr/@dongsamb/ethereum-pow-ethash"><i class="fa fa-link"></i></a>
 
@@ -297,13 +297,13 @@ public-private joint investigation team for cyber security, [ Korea Ministry of 
 
 
 
-## Trainings
+## Training
 
 `2014`
-Training and exploration at Silicon Valley, Google, MS, Stanford, HP etc.
+Training and exploration at Silicon Valley, Google, MS, Stanford, HP, etc.
 
 `2013-14`
-Software Maestro summer, winter education and training
+Software Maestro summer, winter education, and training
 
 `2012`
 Cyber Security Elite Training program BoB education and training 
