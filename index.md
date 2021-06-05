@@ -16,17 +16,20 @@ Cosmos-SDK / Tendermint / Ethereum / Go
 <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a>
 |
 </div> -->
-<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <a href="mailto:dongsamb@bharvest.io">dongsamb@bharvest.io</a> | <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> <br />
-
-
-
-## Profile
-
-Started career with backend development and security, working for FinTech companies with an interest in combinations of IT and finance, developing p2p loan service, researching data, and seeing the blockchain with the possibility of smart contracts. Since then, conducted various development projects and research related to Ethereum, and I have been attracted to the structure of Tendermint / Cosmos-SDK / IBC, so I have been doing research and development since 2018 at B-Harvest
-
-
+<i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a> | <a href="mailto:dongsamb@bharvest.io">dongsamb@bharvest.io</a>| <a href="mailto:dongsam.byun@tendermint.com">dongsam.byun@tendermint.com</a>| <i class="fa fa-github"></i> <a href="http://github.com/dongsam">dongsam</a> | <i class="fa fa-home"></i> <a href="http://dongsamb.com">dongsamb.com</a> <br />
 
 ## Experience
+
+`2021-`
+[__Tendermint__](https://tendermint.com/)
+
+-Tendermint  has acquired B-Harvest <a href="https://www.nasdaq.com/articles/tendermint-acquisition-takes-aim-at-new-interoperable-dex-for-cosmos-2021-04-07"><i class="fa fa-link"></i></a>
+
+-Developing [Gravity-DEX](https://gravitydex.io/),  [Liquidity Module](https://github.com/tendermint/liquidity) on Cosmos Hub
+
+- Cosmos-SDK
+- Tendermint
+- Golang
 
 `2018-`
 [__B-Harvest__](https://bharvest.io), CTO 
@@ -352,7 +355,8 @@ Cyber Security Elite Training program BoB education and training
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:dongsamb@gmail.com">dongsamb@gmail.com</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:dongsamb@bharvest.io">dongsamb@bharvest.io</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:dongsam.byun@tendermint.com">dongsam.byun@tendermint.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/dongsam">Github</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/dongsamb">@dongsamb</a><br />
 *  <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/dongsam">Linkedin</a><br />
 *  <i class="fa fa-bookmark"></i> <a href="http://cv.dongsamb.com">CV</a><br />
